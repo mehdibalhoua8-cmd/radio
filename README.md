@@ -1,7 +1,7 @@
 # Voz México – station data
 
 The Voz México app reads `stations.json` from this repo
-(`https://raw.githubusercontent.com/<user>/radio-mexico-data/main/stations.json`).
+(`https://raw.githubusercontent.com/mehdibalhoua8-cmd/radio-mexico-data/main/stations.json`).
 Phones pick up changes within an hour (pull to refresh in the app to get them at once).
 No app update is needed.
 
