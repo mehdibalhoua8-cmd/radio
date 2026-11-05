@@ -923,7 +923,7 @@
     "streamUrl": "https://radios.blumhost.es/8136/;",
     "logoUrl": "",
     "genre": "Regional",
-    "offline": true
+    "bitrate": 64
   },
   {
     "name": "Classic 106.9 (Mty)",
@@ -1007,7 +1007,7 @@
     "streamUrl": "https://stream.zeno.fm/e88fhqnsrk9uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/huntersmusik.png?version=3d8b27de07c488a04a4fd8f8482f6013dd7801e7",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 112
   },
   {
     "name": "La Lupe 99.9 (Gdl)",
@@ -2604,7 +2604,7 @@
     "streamUrl": "https://ec4.yesstreaming.net:2650/stream",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/kcdmxradio.jpeg?version=84156b0de38b33531d7d8ca5660590f5e2bbad00",
     "genre": "General",
-    "bitrate": 320
+    "bitrate": 64
   },
   {
     "name": "Pokemonforever",
@@ -2653,7 +2653,7 @@
     "streamUrl": "https://stream.zeno.fm/cltpbd1wwacvv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/houseradiomx.png?version=dfb5526cfbff90c0ec1bdbf315822ca204b54073",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 320
   },
   {
     "name": "Eternamente Enamora2",
@@ -3370,7 +3370,8 @@
     "streamUrl": "https://ec4.yesstreaming.net:2655/stream",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/saojoaquinfm.png?version=3534c4253cd306672e464b376d632fa4b788fb5c",
     "genre": "General",
-    "bitrate": 320
+    "bitrate": 320,
+    "offline": true
   },
   {
     "name": "Invencible Radio",
@@ -3601,7 +3602,7 @@
     "streamUrl": "https://stream.zeno.fm/d3s3lyxx58nuv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/abcradiomix.png?version=6ffd3f474cc0c84666b04f45d3e21edfbbdd2bea",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 112
   },
   {
     "name": "La Bonachona Radio",
@@ -4167,7 +4168,8 @@
     "streamUrl": "https://stream.zeno.fm/zc6eqtg84c9uv",
     "logoUrl": "https://thumbnail.anii.io/mx/radio-alegria-mexicana-90-1-fm-la-paz-mexico.webp",
     "genre": "Regional",
-    "bitrate": 96
+    "bitrate": 96,
+    "offline": true
   },
   {
     "name": "La 99 FM Cuernavaca",
@@ -6671,7 +6673,8 @@
     "streamUrl": "http://s1.vvtelecom.net:8000/rvisag",
     "logoUrl": "",
     "genre": "Regional",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "LOS40 101.5 (Villahermosa)",
@@ -7543,7 +7546,7 @@
     "streamUrl": "https://servidor16-2.brlogic.com:7062/live",
     "logoUrl": "https://platform-upload.cdn-brlogic.com/253324/editor/d865aadedcacf11cba4ec34bcf31867f.png",
     "genre": "Music",
-    "bitrate": 96
+    "bitrate": 128
   },
   {
     "name": "LOS40 Oaxaca",
@@ -7970,7 +7973,7 @@
     "streamUrl": "https://sg.centrocibernetico.com/audiorama-xewf",
     "logoUrl": "https://thumbnail.anii.io/mx/radio-la-bestia-grupera-103-5-fm-nogales-mexico.webp",
     "genre": "Regional",
-    "bitrate": 24
+    "bitrate": 23
   },
   {
     "name": "Buenisiima CDMX",
@@ -7998,14 +8001,14 @@
     "streamUrl": "https://radios.blumhost.es/8130/;",
     "logoUrl": "",
     "genre": "Regional",
-    "offline": true
+    "bitrate": 64
   },
   {
     "name": "Radio Centro San Luis 93.9 FM",
     "streamUrl": "https://radios.blumhost.es/8132/;",
     "logoUrl": "",
     "genre": "Music",
-    "offline": true
+    "bitrate": 64
   },
   {
     "name": "Buenisiima 88.5 FM",
@@ -8040,7 +8043,7 @@
     "streamUrl": "https://cast1.my-control-panel.com/proxy/exavictoria/stream",
     "logoUrl": "",
     "genre": "Music",
-    "bitrate": 64
+    "bitrate": 128
   },
   {
     "name": "La Grande de Río Grande",
@@ -8130,7 +8133,7 @@
     "streamUrl": "http://radio.alphamx.net:8104/stream",
     "logoUrl": "",
     "genre": "Music",
-    "bitrate": 80
+    "bitrate": 96
   },
   {
     "name": "Radio Zoque 105.9 (Tuxtla)",
@@ -8234,7 +8237,7 @@
     "streamUrl": "https://cast1.my-control-panel.com/proxy/cotorra/stream",
     "logoUrl": "",
     "genre": "Regional",
-    "bitrate": 96
+    "bitrate": 128
   },
   {
     "name": "La Radio De Tabasco",
@@ -8311,7 +8314,7 @@
     "streamUrl": "https://cast1.my-control-panel.com/proxy/lav/stream/;stream.mp3",
     "logoUrl": "",
     "genre": "Music",
-    "bitrate": 64
+    "bitrate": 128
   },
   {
     "name": "Voz 99.7 (Ciudad Valles)",
@@ -8554,7 +8557,7 @@
     "streamUrl": "https://cast1.my-control-panel.com/proxy/lav/stream",
     "logoUrl": "https://cdn-profiles.tunein.com/s344286/images/logod.jpg",
     "genre": "Music",
-    "bitrate": 64
+    "bitrate": 128
   },
   {
     "name": "910 Radio Mexicana (Mexicali)",
@@ -8652,7 +8655,8 @@
     "streamUrl": "http://stream.zeno.fm/bcbs57s5dkhvv",
     "logoUrl": "https://i.postimg.cc/jjgCfJD6/rocola.png",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "La Ke Buena 100.7 Ruiz",
@@ -8666,7 +8670,7 @@
     "streamUrl": "https://ssl.sigmaradio.stream:9004/stream",
     "logoUrl": "https://cdn-profiles.tunein.com/s148725/images/logod.png",
     "genre": "Music",
-    "bitrate": 96
+    "bitrate": 75
   },
   {
     "name": "GDL 89.1 La Bestia Grupera XHGDA",
@@ -9197,7 +9201,7 @@
     "streamUrl": "https://streaming.servicioswebmx.com/8268/stream",
     "logoUrl": "https://i.postimg.cc/ZRXNqXVN/w-toluca.png",
     "genre": "Sports",
-    "bitrate": 192
+    "bitrate": 128
   },
   {
     "name": "Arroba FM 89.3 (Poza Rica)",
@@ -9568,7 +9572,7 @@
     "streamUrl": "https://radios.blumhost.es/8104/;",
     "logoUrl": "",
     "genre": "Regional",
-    "offline": true
+    "bitrate": 64
   },
   {
     "name": "99.7 Globo (Ciudad Acuña)",
@@ -10537,7 +10541,7 @@
     "streamUrl": "https://lanix.cuellarpodcaster.com/listen/cuellar_podcaster/radio.mp3",
     "logoUrl": "https://cuellarpodcaster.com/assets/images/logo.png",
     "genre": "General",
-    "offline": true
+    "bitrate": 128
   },
   {
     "name": "Exa FM 98.1 (Guasave)",
