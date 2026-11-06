@@ -377,7 +377,7 @@
     "streamUrl": "https://stream.zeno.fm/wqmax4y0ra0uv",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/XHLEO_LaRancherita105.1_logo.png",
     "genre": "Regional",
-    "bitrate": 96
+    "bitrate": 56
   },
   {
     "name": "105 Digital (Aguascalientes)",
@@ -993,7 +993,7 @@
     "streamUrl": "https://mmradio-lb.mmlabs.mx/xergfm",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/rgladeportiva.png?version=db705941b17a7ffa1fc6061117433efca77f439a",
     "genre": "General",
-    "bitrate": 93
+    "bitrate": 128
   },
   {
     "name": "Traviesa 106.7 FM",
@@ -1007,7 +1007,7 @@
     "streamUrl": "https://stream.zeno.fm/e88fhqnsrk9uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/huntersmusik.png?version=3d8b27de07c488a04a4fd8f8482f6013dd7801e7",
     "genre": "General",
-    "bitrate": 112
+    "bitrate": 128
   },
   {
     "name": "La Lupe 99.9 (Gdl)",
@@ -1777,7 +1777,7 @@
     "streamUrl": "https://a13.asurahosting.com/listen/stereo_beam/radio.mp3",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/stereobeam.png?version=463fa9471ea5d1264b2b6886195a5782cd097d19",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 208
   },
   {
     "name": "Radio SUPERACIÓN ECMC",
@@ -3602,7 +3602,7 @@
     "streamUrl": "https://stream.zeno.fm/d3s3lyxx58nuv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/abcradiomix.png?version=6ffd3f474cc0c84666b04f45d3e21edfbbdd2bea",
     "genre": "Music",
-    "bitrate": 112
+    "bitrate": 128
   },
   {
     "name": "La Bonachona Radio",
@@ -4412,7 +4412,7 @@
     "streamUrl": "https://stream.zeno.fm/76au7xvuvxhvv",
     "logoUrl": "https://i.postimg.cc/6pSFj4dT/radioactiva.png",
     "genre": "Regional",
-    "bitrate": 128
+    "bitrate": 64
   },
   {
     "name": "Blu FM 92.3 (León)",
@@ -4701,7 +4701,8 @@
     "streamUrl": "http://streamingcwsradio10.com:9350/;",
     "logoUrl": "https://i.postimg.cc/Cxy1B0J8/xhctn.jpg",
     "genre": "News",
-    "bitrate": 48
+    "bitrate": 48,
+    "offline": true
   },
   {
     "name": "Exa FM 98.1 (Zamora)",
@@ -5167,7 +5168,7 @@
     "streamUrl": "http://streamingcwsradio10.com:9316/stream",
     "logoUrl": "https://i.postimg.cc/d35WX1rC/oristereo.png",
     "genre": "News",
-    "bitrate": 128
+    "bitrate": 56
   },
   {
     "name": "Extasis Digital 105.9 (Poza Rica)",
@@ -6128,7 +6129,7 @@
     "streamUrl": "http://streamingcwsradio10.com:9316/;",
     "logoUrl": "",
     "genre": "Regional",
-    "bitrate": 128
+    "bitrate": 56
   },
   {
     "name": "La Kebuena 95.5 (Colima)",
@@ -7546,7 +7547,7 @@
     "streamUrl": "https://servidor16-2.brlogic.com:7062/live",
     "logoUrl": "https://platform-upload.cdn-brlogic.com/253324/editor/d865aadedcacf11cba4ec34bcf31867f.png",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 96
   },
   {
     "name": "LOS40 Oaxaca",
@@ -8133,7 +8134,7 @@
     "streamUrl": "http://radio.alphamx.net:8104/stream",
     "logoUrl": "",
     "genre": "Music",
-    "bitrate": 96
+    "bitrate": 80
   },
   {
     "name": "Radio Zoque 105.9 (Tuxtla)",
@@ -9684,7 +9685,7 @@
     "streamUrl": "https://cast1.asurahosting.com/proxy/coahuilasaltillo/stream",
     "logoUrl": "https://i.postimg.cc/1z35HV18/coahuilahoyradio1025.png",
     "genre": "News",
-    "bitrate": 96
+    "bitrate": 64
   },
   {
     "name": "Radio Madera",
