@@ -1007,7 +1007,7 @@
     "streamUrl": "https://stream.zeno.fm/e88fhqnsrk9uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/huntersmusik.png?version=3d8b27de07c488a04a4fd8f8482f6013dd7801e7",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 96
   },
   {
     "name": "La Lupe 99.9 (Gdl)",
@@ -1233,7 +1233,7 @@
     "streamUrl": "https://stream.zeno.fm/9y6f68ssq0hvv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/playmusicguadalajara.png?version=270f66845f1802b89a7b008475de64f657855ff7",
     "genre": "Music",
-    "bitrate": 320
+    "bitrate": 96
   },
   {
     "name": "La Ke Buena 102.7 FM (Torreón)",
@@ -1777,7 +1777,7 @@
     "streamUrl": "https://a13.asurahosting.com/listen/stereo_beam/radio.mp3",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/stereobeam.png?version=463fa9471ea5d1264b2b6886195a5782cd097d19",
     "genre": "General",
-    "bitrate": 208
+    "bitrate": 192
   },
   {
     "name": "Radio SUPERACIÓN ECMC",
@@ -2117,7 +2117,7 @@
     "streamUrl": "https://stream.zeno.fm/78c7xn154v8uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/fusiongrupera889fm.jpeg?version=0ef6313ee0c52b81c3abc114ceddffc792b8186d",
     "genre": "Regional",
-    "bitrate": 320
+    "bitrate": 128
   },
   {
     "name": "Cumbias Sonideras",
@@ -3574,7 +3574,7 @@
     "streamUrl": "https://radiosonline.radiolidermexico.com/8004/stream",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/radio-lider-bajio.png?version=784fd9ea15f83cc076ade66a7d3526167ec33307",
     "genre": "General",
-    "bitrate": 96
+    "bitrate": 104
   },
   {
     "name": "La Onda Morelia",
@@ -3602,7 +3602,7 @@
     "streamUrl": "https://stream.zeno.fm/d3s3lyxx58nuv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/abcradiomix.png?version=6ffd3f474cc0c84666b04f45d3e21edfbbdd2bea",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 112
   },
   {
     "name": "La Bonachona Radio",
@@ -3686,7 +3686,8 @@
     "streamUrl": "https://us2.maindigitalstream.com/ssl/8226",
     "logoUrl": "https://i.postimg.cc/vmTmtCL8/radiovision.png",
     "genre": "Religious",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "Amor 93.1 (Guadalajara)",
@@ -4168,8 +4169,7 @@
     "streamUrl": "https://stream.zeno.fm/zc6eqtg84c9uv",
     "logoUrl": "https://thumbnail.anii.io/mx/radio-alegria-mexicana-90-1-fm-la-paz-mexico.webp",
     "genre": "Regional",
-    "bitrate": 96,
-    "offline": true
+    "bitrate": 96
   },
   {
     "name": "La 99 FM Cuernavaca",
@@ -4197,7 +4197,7 @@
     "streamUrl": "https://stream-282.surfernetwork.com/kvdvkhbtvchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrdmR2a2hidHZjaHZ2IiwiaG9zdCI6InN0cmVhbS0yODIuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ilc3OGRCOVhxUmUySTVrYVNlUDJVQ3ciLCJpYXQiOjE3OTM1MTE4NzksImV4cCI6MTc5MzUxMTkzOX0.jC2hQGwz4XWSdbcdsfYx9ixDdlP3aFpyzitHQ9Finbw",
     "logoUrl": "https://i.postimg.cc/mr8vcLp3/candela951.png",
     "genre": "Regional",
-    "bitrate": 96
+    "bitrate": 128
   },
   {
     "name": "KY 104.3 (Ciudad Juárez)",
@@ -4412,7 +4412,7 @@
     "streamUrl": "https://stream.zeno.fm/76au7xvuvxhvv",
     "logoUrl": "https://i.postimg.cc/6pSFj4dT/radioactiva.png",
     "genre": "Regional",
-    "bitrate": 64
+    "bitrate": 128
   },
   {
     "name": "Blu FM 92.3 (León)",
@@ -4549,7 +4549,7 @@
     "streamUrl": "https://stream.zeno.fm/0snf1r835k0uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/freeaktivo.png?version=c15c4227378060ead10d6999928f75cc7dd952a6",
     "genre": "General",
-    "bitrate": 96
+    "bitrate": 128
   },
   {
     "name": "Classic Rock Fire",
@@ -4701,8 +4701,7 @@
     "streamUrl": "http://streamingcwsradio10.com:9350/;",
     "logoUrl": "https://i.postimg.cc/Cxy1B0J8/xhctn.jpg",
     "genre": "News",
-    "bitrate": 48,
-    "offline": true
+    "bitrate": 48
   },
   {
     "name": "Exa FM 98.1 (Zamora)",
@@ -5625,7 +5624,8 @@
     "streamUrl": "https://stream-178.surfernetwork.com/dwhxrwbsjaevv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkd2h4cndic2phZXZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkRLT1ZwNTg2UXdTLUpCclB4cW9LWVEiLCJpYXQiOjE3OTMzOTQzMTksImV4cCI6MTc5MzM5NDM3OX0.DuyYLqRYExcGDbQqYmH-oOM-ETaA7ezZ7_yD_8sAAYA",
     "logoUrl": "",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "Ké Buena",
@@ -6217,7 +6217,7 @@
     "streamUrl": "http://stream.zeno.fm/ppk72mcbqs8uv",
     "logoUrl": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 112
   },
   {
     "name": "Arroba FM (León)",
@@ -7974,7 +7974,7 @@
     "streamUrl": "https://sg.centrocibernetico.com/audiorama-xewf",
     "logoUrl": "https://thumbnail.anii.io/mx/radio-la-bestia-grupera-103-5-fm-nogales-mexico.webp",
     "genre": "Regional",
-    "bitrate": 23
+    "bitrate": 24
   },
   {
     "name": "Buenisiima CDMX",
@@ -8072,7 +8072,8 @@
     "streamUrl": "https://hd.streamingfullhd.net:7065/live",
     "logoUrl": "",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "Radio Zona 503 El Salvador",
@@ -8678,7 +8679,7 @@
     "streamUrl": "https://sg.centrocibernetico.com/audiorama-xhgda",
     "logoUrl": "https://backend-audiorama-media.s3.amazonaws.com/2024/10/GUADALAJARA-891.png",
     "genre": "Regional",
-    "bitrate": 24
+    "bitrate": 23
   },
   {
     "name": "Radio Vital (Guadalajara)",
@@ -9838,7 +9839,7 @@
     "streamUrl": "https://stream.zeno.fm/pxsn7t7zfkhvv",
     "logoUrl": "https://static.wixstatic.com/media/c7da22_673fbcf9ced64c7fbf528ed12839c9e6%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/c7da22_673fbcf9ced64c7fbf528ed12839c9e6%7emv2.png",
     "genre": "Regional",
-    "bitrate": 128
+    "bitrate": 96
   },
   {
     "name": "La Bestia Grupera Puerto Peñasco 93.5 FM",
@@ -10542,7 +10543,8 @@
     "streamUrl": "https://lanix.cuellarpodcaster.com/listen/cuellar_podcaster/radio.mp3",
     "logoUrl": "https://cuellarpodcaster.com/assets/images/logo.png",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "Exa FM 98.1 (Guasave)",
