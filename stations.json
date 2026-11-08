@@ -550,7 +550,8 @@
     "streamUrl": "https://enlinea-r1.rancherita.com.mx/listen/rancherita_del_aire/radio.mp3",
     "logoUrl": "https://www.medios.gt/galeriausuarios/mexico/imagenesmessage/imagem030301150614791.jpg",
     "genre": "Regional",
-    "bitrate": 96
+    "bitrate": 96,
+    "offline": true
   },
   {
     "name": "Piano Landscapes",
@@ -1007,7 +1008,7 @@
     "streamUrl": "https://stream.zeno.fm/e88fhqnsrk9uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/huntersmusik.png?version=3d8b27de07c488a04a4fd8f8482f6013dd7801e7",
     "genre": "General",
-    "bitrate": 96
+    "bitrate": 112
   },
   {
     "name": "La Lupe 99.9 (Gdl)",
@@ -1777,7 +1778,7 @@
     "streamUrl": "https://a13.asurahosting.com/listen/stereo_beam/radio.mp3",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/stereobeam.png?version=463fa9471ea5d1264b2b6886195a5782cd097d19",
     "genre": "General",
-    "bitrate": 192
+    "bitrate": 208
   },
   {
     "name": "Radio SUPERACIÓN ECMC",
@@ -3602,7 +3603,7 @@
     "streamUrl": "https://stream.zeno.fm/d3s3lyxx58nuv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/abcradiomix.png?version=6ffd3f474cc0c84666b04f45d3e21edfbbdd2bea",
     "genre": "Music",
-    "bitrate": 112
+    "bitrate": 128
   },
   {
     "name": "La Bonachona Radio",
@@ -5326,7 +5327,8 @@
     "streamUrl": "https://radios.radiohd.com.mx/8282/;",
     "logoUrl": "https://i.postimg.cc/MHcMtcHQ/radiotecnologicodecelaya.jpg",
     "genre": "Regional",
-    "bitrate": 48
+    "bitrate": 48,
+    "offline": true
   },
   {
     "name": "La Poderosa (Tuxpan)",
@@ -6217,7 +6219,7 @@
     "streamUrl": "http://stream.zeno.fm/ppk72mcbqs8uv",
     "logoUrl": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
     "genre": "Music",
-    "bitrate": 112
+    "bitrate": 128
   },
   {
     "name": "Arroba FM (León)",
@@ -6674,8 +6676,7 @@
     "streamUrl": "http://s1.vvtelecom.net:8000/rvisag",
     "logoUrl": "",
     "genre": "Regional",
-    "bitrate": 128,
-    "offline": true
+    "bitrate": 128
   },
   {
     "name": "LOS40 101.5 (Villahermosa)",
@@ -6871,7 +6872,8 @@
     "streamUrl": "https://secure.radiorama.mx:2073/",
     "logoUrl": "https://cdn-profiles.tunein.com/s356741/images/logod.jpg",
     "genre": "News",
-    "bitrate": 64
+    "bitrate": 64,
+    "offline": true
   },
   {
     "name": "Switch 105.9 Ciudad Juárez",
@@ -7052,7 +7054,7 @@
     "streamUrl": "http://streamingcwsradio10.com:9346/;",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/43/XHNAL_digital89_logo.png",
     "genre": "News",
-    "offline": true
+    "bitrate": 48
   },
   {
     "name": "Super (Chilpancingo)",
@@ -7575,7 +7577,7 @@
     "streamUrl": "https://stream.zeno.fm/bds3sefnuuquv",
     "logoUrl": "",
     "genre": "General",
-    "bitrate": 56
+    "bitrate": 128
   },
   {
     "name": "JM Radio Mas Tropical",
@@ -7757,7 +7759,7 @@
     "streamUrl": "https://stream.zeno.fm/475h26fvz2quv",
     "logoUrl": "",
     "genre": "General",
-    "bitrate": 88
+    "bitrate": 128
   },
   {
     "name": "Éxtasis Digital 102.7 FM",
@@ -7785,7 +7787,7 @@
     "streamUrl": "https://stream.zeno.fm/0ssyb808fxquv.aac",
     "logoUrl": "",
     "genre": "General",
-    "bitrate": 64
+    "bitrate": 128
   },
   {
     "name": "Romance 99.5 FM",
@@ -8072,8 +8074,7 @@
     "streamUrl": "https://hd.streamingfullhd.net:7065/live",
     "logoUrl": "",
     "genre": "General",
-    "bitrate": 128,
-    "offline": true
+    "bitrate": 128
   },
   {
     "name": "Radio Zona 503 El Salvador",
@@ -8108,7 +8109,7 @@
     "streamUrl": "https://streaming01.shockmedia.com.ar:10949/;",
     "logoUrl": "",
     "genre": "General",
-    "bitrate": 32
+    "bitrate": 36
   },
   {
     "name": "Radio México International",
@@ -8323,7 +8324,8 @@
     "streamUrl": "https://streams.radiomast.io/4672e61f-eea5-424e-a686-da0e7d1088f2",
     "logoUrl": "https://cdn-profiles.tunein.com/s350929/images/logod.png",
     "genre": "News",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "Laredos Classic Hits (Nuevo Laredo) 107.3",
@@ -9105,7 +9107,8 @@
     "streamUrl": "https://sp3.servidorrprivado.com:10840/stream",
     "logoUrl": "https://i.postimg.cc/HnhPXfQG/lazapoteca.jpg",
     "genre": "News",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "Super Stereo Miled 98.9 FM Toluca",
@@ -10362,7 +10365,7 @@
     "streamUrl": "https://sg.centrocibernetico.com/audiorama-xhkj",
     "logoUrl": "https://i.postimg.cc/YCrw3Pqs/vida897.png",
     "genre": "Music",
-    "bitrate": 25
+    "bitrate": 24
   },
   {
     "name": "Exa FM 102.9 (Tehuacán)",
