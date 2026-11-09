@@ -1008,7 +1008,7 @@
     "streamUrl": "https://stream.zeno.fm/e88fhqnsrk9uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/huntersmusik.png?version=3d8b27de07c488a04a4fd8f8482f6013dd7801e7",
     "genre": "General",
-    "bitrate": 112
+    "bitrate": 128
   },
   {
     "name": "La Lupe 99.9 (Gdl)",
@@ -1234,7 +1234,7 @@
     "streamUrl": "https://stream.zeno.fm/9y6f68ssq0hvv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/playmusicguadalajara.png?version=270f66845f1802b89a7b008475de64f657855ff7",
     "genre": "Music",
-    "bitrate": 96
+    "bitrate": 320
   },
   {
     "name": "La Ke Buena 102.7 FM (Torreón)",
@@ -1778,7 +1778,7 @@
     "streamUrl": "https://a13.asurahosting.com/listen/stereo_beam/radio.mp3",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/stereobeam.png?version=463fa9471ea5d1264b2b6886195a5782cd097d19",
     "genre": "General",
-    "bitrate": 208
+    "bitrate": 128
   },
   {
     "name": "Radio SUPERACIÓN ECMC",
@@ -2118,7 +2118,7 @@
     "streamUrl": "https://stream.zeno.fm/78c7xn154v8uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/fusiongrupera889fm.jpeg?version=0ef6313ee0c52b81c3abc114ceddffc792b8186d",
     "genre": "Regional",
-    "bitrate": 128
+    "bitrate": 320
   },
   {
     "name": "Cumbias Sonideras",
@@ -2605,7 +2605,8 @@
     "streamUrl": "https://ec4.yesstreaming.net:2650/stream",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/kcdmxradio.jpeg?version=84156b0de38b33531d7d8ca5660590f5e2bbad00",
     "genre": "General",
-    "bitrate": 64
+    "bitrate": 64,
+    "offline": true
   },
   {
     "name": "Pokemonforever",
@@ -3807,7 +3808,7 @@
     "streamUrl": "https://stream9.mexiserver.com:8096/stream",
     "logoUrl": "https://i.postimg.cc/jd3nT1nJ/lafavorita.png",
     "genre": "Regional",
-    "bitrate": 128
+    "bitrate": 144
   },
   {
     "name": "Radio Sin Nombre 89.9",
@@ -4198,7 +4199,7 @@
     "streamUrl": "https://stream-282.surfernetwork.com/kvdvkhbtvchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrdmR2a2hidHZjaHZ2IiwiaG9zdCI6InN0cmVhbS0yODIuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ilc3OGRCOVhxUmUySTVrYVNlUDJVQ3ciLCJpYXQiOjE3OTM1MTE4NzksImV4cCI6MTc5MzUxMTkzOX0.jC2hQGwz4XWSdbcdsfYx9ixDdlP3aFpyzitHQ9Finbw",
     "logoUrl": "https://i.postimg.cc/mr8vcLp3/candela951.png",
     "genre": "Regional",
-    "bitrate": 128
+    "bitrate": 96
   },
   {
     "name": "KY 104.3 (Ciudad Juárez)",
@@ -4550,7 +4551,7 @@
     "streamUrl": "https://stream.zeno.fm/0snf1r835k0uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/freeaktivo.png?version=c15c4227378060ead10d6999928f75cc7dd952a6",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 96
   },
   {
     "name": "Classic Rock Fire",
@@ -4784,7 +4785,7 @@
     "streamUrl": "https://cast.direcnode.com/proxy/nocturnoaac/stream",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/nocturno.png?version=55e5aadfcefacf3d5d811b6cadd80d85cf62ed75",
     "genre": "General",
-    "bitrate": 64
+    "bitrate": 128
   },
   {
     "name": "33hf Stereo Digital",
@@ -6219,7 +6220,7 @@
     "streamUrl": "http://stream.zeno.fm/ppk72mcbqs8uv",
     "logoUrl": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 112
   },
   {
     "name": "Arroba FM (León)",
@@ -6872,8 +6873,7 @@
     "streamUrl": "https://secure.radiorama.mx:2073/",
     "logoUrl": "https://cdn-profiles.tunein.com/s356741/images/logod.jpg",
     "genre": "News",
-    "bitrate": 64,
-    "offline": true
+    "bitrate": 64
   },
   {
     "name": "Switch 105.9 Ciudad Juárez",
@@ -8109,7 +8109,7 @@
     "streamUrl": "https://streaming01.shockmedia.com.ar:10949/;",
     "logoUrl": "",
     "genre": "General",
-    "bitrate": 36
+    "bitrate": 32
   },
   {
     "name": "Radio México International",
@@ -8324,8 +8324,7 @@
     "streamUrl": "https://streams.radiomast.io/4672e61f-eea5-424e-a686-da0e7d1088f2",
     "logoUrl": "https://cdn-profiles.tunein.com/s350929/images/logod.png",
     "genre": "News",
-    "bitrate": 128,
-    "offline": true
+    "bitrate": 128
   },
   {
     "name": "Laredos Classic Hits (Nuevo Laredo) 107.3",
@@ -8387,7 +8386,7 @@
     "streamUrl": "http://sigmaradio.stream:9000/index",
     "logoUrl": "https://sigmaradiodelicias.com/wp-content/uploads/2018/08/cropped-favicon-sigmaradio-180x180.png",
     "genre": "Music",
-    "bitrate": 75
+    "bitrate": 96
   },
   {
     "name": "102.9 Buenavista Radio (Ciudad Valles)",
@@ -8674,14 +8673,14 @@
     "streamUrl": "https://ssl.sigmaradio.stream:9004/stream",
     "logoUrl": "https://cdn-profiles.tunein.com/s148725/images/logod.png",
     "genre": "Music",
-    "bitrate": 75
+    "bitrate": 32
   },
   {
     "name": "GDL 89.1 La Bestia Grupera XHGDA",
     "streamUrl": "https://sg.centrocibernetico.com/audiorama-xhgda",
     "logoUrl": "https://backend-audiorama-media.s3.amazonaws.com/2024/10/GUADALAJARA-891.png",
     "genre": "Regional",
-    "bitrate": 23
+    "bitrate": 24
   },
   {
     "name": "Radio Vital (Guadalajara)",
@@ -9107,8 +9106,7 @@
     "streamUrl": "https://sp3.servidorrprivado.com:10840/stream",
     "logoUrl": "https://i.postimg.cc/HnhPXfQG/lazapoteca.jpg",
     "genre": "News",
-    "bitrate": 128,
-    "offline": true
+    "bitrate": 128
   },
   {
     "name": "Super Stereo Miled 98.9 FM Toluca",
