@@ -274,7 +274,8 @@
     "streamUrl": "https://streaming.servicioswebmx.com/8078/stream",
     "logoUrl": "https://lainolvidabledeperote.com/wp-content/uploads/2024/11/cropped-cropped-lain2-180x180.png",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "FM Globo 101.9 (Mexicali)",
@@ -702,7 +703,8 @@
     "streamUrl": "https://stream.zeno.fm/jm78wrozeu0vv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/aciddogs.jpeg?version=1",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "Radio Comunitaria San Pancho",
@@ -1008,7 +1010,7 @@
     "streamUrl": "https://stream.zeno.fm/e88fhqnsrk9uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/huntersmusik.png?version=3d8b27de07c488a04a4fd8f8482f6013dd7801e7",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 160
   },
   {
     "name": "La Lupe 99.9 (Gdl)",
@@ -3604,7 +3606,7 @@
     "streamUrl": "https://stream.zeno.fm/d3s3lyxx58nuv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/abcradiomix.png?version=6ffd3f474cc0c84666b04f45d3e21edfbbdd2bea",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 96
   },
   {
     "name": "La Bonachona Radio",
@@ -3843,7 +3845,7 @@
     "streamUrl": "https://stream.zeno.fm/5ze4urxay98uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/lamasprendida.jpeg?version=e1675afc7002512e3ede264658b5ab64f94cfeca",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 112
   },
   {
     "name": "Radiante FM 91.1",
@@ -4206,7 +4208,7 @@
     "streamUrl": "https://sg.centrocibernetico.com/audiorama-xhto",
     "logoUrl": "https://cdn-profiles.tunein.com/s342438/images/logod.png",
     "genre": "Music",
-    "bitrate": 24
+    "bitrate": 25
   },
   {
     "name": "La Gigante 95.3 (Piedras Negras)",
@@ -5328,8 +5330,7 @@
     "streamUrl": "https://radios.radiohd.com.mx/8282/;",
     "logoUrl": "https://i.postimg.cc/MHcMtcHQ/radiotecnologicodecelaya.jpg",
     "genre": "Regional",
-    "bitrate": 48,
-    "offline": true
+    "bitrate": 48
   },
   {
     "name": "La Poderosa (Tuxpan)",
@@ -5883,7 +5884,8 @@
     "streamUrl": "https://cast1.my-control-panel.com/proxy/examante/stream/;stream.mp3",
     "logoUrl": "https://cdn-profiles.tunein.com/s90288/images/logod.png",
     "genre": "Music",
-    "bitrate": 96
+    "bitrate": 96,
+    "offline": true
   },
   {
     "name": "Inolvidable (Jerez)",
@@ -6586,7 +6588,7 @@
     "streamUrl": "https://sg.centrocibernetico.com/audiorama-xhevp",
     "logoUrl": "https://cdn-radiotime-logos.tunein.com/s90519d.png",
     "genre": "Regional",
-    "bitrate": 24
+    "bitrate": 25
   },
   {
     "name": "La Chabela",
@@ -6936,7 +6938,7 @@
     "streamUrl": "https://stream.zeno.fm/uwvn15eu01zuv",
     "logoUrl": "",
     "genre": "Music",
-    "bitrate": 64
+    "bitrate": 128
   },
   {
     "name": "Capitan 95",
@@ -7054,7 +7056,8 @@
     "streamUrl": "http://streamingcwsradio10.com:9346/;",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/43/XHNAL_digital89_logo.png",
     "genre": "News",
-    "bitrate": 48
+    "bitrate": 48,
+    "offline": true
   },
   {
     "name": "Super (Chilpancingo)",
@@ -7215,7 +7218,8 @@
     "streamUrl": "https://stream.zeno.fm/py3gf4m4hg8uv",
     "logoUrl": "",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "Generacion X 80s, 90s",
@@ -7976,7 +7980,7 @@
     "streamUrl": "https://sg.centrocibernetico.com/audiorama-xewf",
     "logoUrl": "https://thumbnail.anii.io/mx/radio-la-bestia-grupera-103-5-fm-nogales-mexico.webp",
     "genre": "Regional",
-    "bitrate": 24
+    "bitrate": 23
   },
   {
     "name": "Buenisiima CDMX",
@@ -8046,7 +8050,8 @@
     "streamUrl": "https://cast1.my-control-panel.com/proxy/exavictoria/stream",
     "logoUrl": "",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "La Grande de Río Grande",
@@ -8240,7 +8245,8 @@
     "streamUrl": "https://cast1.my-control-panel.com/proxy/cotorra/stream",
     "logoUrl": "",
     "genre": "Regional",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "La Radio De Tabasco",
@@ -8317,7 +8323,8 @@
     "streamUrl": "https://cast1.my-control-panel.com/proxy/lav/stream/;stream.mp3",
     "logoUrl": "",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "Voz 99.7 (Ciudad Valles)",
@@ -8393,7 +8400,8 @@
     "streamUrl": "https://cast1.asurahosting.com/proxy/bnavista/stream",
     "logoUrl": "https://cdn-profiles.tunein.com/s350025/images/logod.png",
     "genre": "Music",
-    "bitrate": 320
+    "bitrate": 320,
+    "offline": true
   },
   {
     "name": "96.1 Factor (San Luis Potosí)",
@@ -8532,7 +8540,8 @@
     "streamUrl": "https://cast1.my-control-panel.com/proxy/coahuilahoy/stream",
     "logoUrl": "https://static2.mytuner.mobi/media/tvos_radios/331/coahuila-hoy-radio-region-laguna-975-fm-xhcsbb.5ed7b965.png",
     "genre": "News",
-    "bitrate": 64
+    "bitrate": 64,
+    "offline": true
   },
   {
     "name": "Amor Querétaro",
@@ -8560,7 +8569,8 @@
     "streamUrl": "https://cast1.my-control-panel.com/proxy/lav/stream",
     "logoUrl": "https://cdn-profiles.tunein.com/s344286/images/logod.jpg",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "910 Radio Mexicana (Mexicali)",
@@ -8680,7 +8690,7 @@
     "streamUrl": "https://sg.centrocibernetico.com/audiorama-xhgda",
     "logoUrl": "https://backend-audiorama-media.s3.amazonaws.com/2024/10/GUADALAJARA-891.png",
     "genre": "Regional",
-    "bitrate": 24
+    "bitrate": 25
   },
   {
     "name": "Radio Vital (Guadalajara)",
@@ -9575,7 +9585,8 @@
     "streamUrl": "https://radios.blumhost.es/8104/;",
     "logoUrl": "",
     "genre": "Regional",
-    "bitrate": 64
+    "bitrate": 64,
+    "offline": true
   },
   {
     "name": "99.7 Globo (Ciudad Acuña)",
@@ -9687,7 +9698,8 @@
     "streamUrl": "https://cast1.asurahosting.com/proxy/coahuilasaltillo/stream",
     "logoUrl": "https://i.postimg.cc/1z35HV18/coahuilahoyradio1025.png",
     "genre": "News",
-    "bitrate": 64
+    "bitrate": 64,
+    "offline": true
   },
   {
     "name": "Radio Madera",
@@ -9854,7 +9866,8 @@
     "streamUrl": "https://cast1.asurahosting.com/proxy/coahuilapiedras/stream",
     "logoUrl": "https://i.postimg.cc/DZLk8PRW/coahuilahoyradio1063.png",
     "genre": "News",
-    "bitrate": 64
+    "bitrate": 64,
+    "offline": true
   },
   {
     "name": "La Primera (Ojinaga)",
@@ -10363,7 +10376,7 @@
     "streamUrl": "https://sg.centrocibernetico.com/audiorama-xhkj",
     "logoUrl": "https://i.postimg.cc/YCrw3Pqs/vida897.png",
     "genre": "Music",
-    "bitrate": 24
+    "bitrate": 26
   },
   {
     "name": "Exa FM 102.9 (Tehuacán)",
@@ -10559,7 +10572,8 @@
     "streamUrl": "https://streaming.shoutcast.com/xhld-radio-costa",
     "logoUrl": "https://thumbnail.anii.io/mx/radio-costa-103-9-fm-autlan-de-navarro-mexico.webp",
     "genre": "News",
-    "bitrate": 64
+    "bitrate": 64,
+    "offline": true
   },
   {
     "name": "Radio Patos",
