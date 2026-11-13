@@ -494,7 +494,7 @@
     "streamUrl": "https://live.convoynetwork.com/stream",
     "logoUrl": "https://convoynetwork.com/assets/favicon.7a65c983.ico",
     "genre": "Music",
-    "bitrate": 64
+    "bitrate": 56
   },
   {
     "name": "Cumbias Inmortales Radio (Monterrey)",
@@ -600,7 +600,7 @@
     "streamUrl": "https://stream.promomedios.com:8002/stream",
     "logoUrl": "https://cdn-profiles.tunein.com/s2996/images/logod.jpg",
     "genre": "Regional",
-    "bitrate": 52
+    "bitrate": 56
   },
   {
     "name": "Disco by Mix",
@@ -2657,7 +2657,7 @@
     "streamUrl": "https://stream.zeno.fm/cltpbd1wwacvv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/houseradiomx.png?version=dfb5526cfbff90c0ec1bdbf315822ca204b54073",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 320
   },
   {
     "name": "Eternamente Enamora2",
@@ -4207,7 +4207,7 @@
     "streamUrl": "https://sg.centrocibernetico.com/audiorama-xhto",
     "logoUrl": "https://cdn-profiles.tunein.com/s342438/images/logod.png",
     "genre": "Music",
-    "bitrate": 23
+    "bitrate": 24
   },
   {
     "name": "La Gigante 95.3 (Piedras Negras)",
@@ -4429,7 +4429,7 @@
     "streamUrl": "https://stm11.xcast.com.br:9640/stream",
     "logoUrl": "https://i.postimg.cc/634v3XFM/contacto.png",
     "genre": "News",
-    "bitrate": 112
+    "bitrate": 128
   },
   {
     "name": "Radio Fórmula 1470 (CDMX)",
@@ -4511,7 +4511,7 @@
     "streamUrl": "https://stream-51.zeno.fm/tn3ch5scy38uv?zs=0CgQIimsTR-hHP_HMaSszA",
     "logoUrl": "https://i.postimg.cc/tT5L6c1s/pixeldigitalradio.png",
     "genre": "Music",
-    "bitrate": 48
+    "bitrate": 96
   },
   {
     "name": "Sol FM 101.3 (Atlixco)",
@@ -5329,7 +5329,7 @@
     "streamUrl": "https://radios.radiohd.com.mx/8282/;",
     "logoUrl": "https://i.postimg.cc/MHcMtcHQ/radiotecnologicodecelaya.jpg",
     "genre": "Regional",
-    "bitrate": 64
+    "bitrate": 48
   },
   {
     "name": "La Poderosa (Tuxpan)",
@@ -5834,7 +5834,8 @@
     "streamUrl": "https://s1.jcbroadcast.org:8040/stream",
     "logoUrl": "",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "Radio Fórmula (Campeche)",
@@ -6586,7 +6587,7 @@
     "streamUrl": "https://sg.centrocibernetico.com/audiorama-xhevp",
     "logoUrl": "https://cdn-radiotime-logos.tunein.com/s90519d.png",
     "genre": "Regional",
-    "bitrate": 23
+    "bitrate": 25
   },
   {
     "name": "La Chabela",
@@ -7519,7 +7520,8 @@
     "streamUrl": "https://laradiossl.online:10567/;",
     "logoUrl": "https://i.postimg.cc/J4ytxwrG/la-kebuena-cadereyta.jpg",
     "genre": "Regional",
-    "bitrate": 32
+    "bitrate": 32,
+    "offline": true
   },
   {
     "name": "La Invasora 98.9 (Aguascalientes)",
@@ -7553,7 +7555,7 @@
     "streamUrl": "https://servidor16-2.brlogic.com:7062/live",
     "logoUrl": "https://platform-upload.cdn-brlogic.com/253324/editor/d865aadedcacf11cba4ec34bcf31867f.png",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 96
   },
   {
     "name": "LOS40 Oaxaca",
@@ -7714,7 +7716,8 @@
     "streamUrl": "http://rustradio.org:9000/stream-without-metadata.ogg",
     "logoUrl": "https://www.rustradio.org/apple-icon-144x144.png",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "La más picuda 93.7 Tepic",
@@ -8776,7 +8779,8 @@
     "streamUrl": "https://radioenlinea.click:8040/radio.mp3",
     "logoUrl": "",
     "genre": "General",
-    "bitrate": 192
+    "bitrate": 192,
+    "offline": true
   },
   {
     "name": "Sintonia Uno",
@@ -10370,7 +10374,7 @@
     "streamUrl": "https://sg.centrocibernetico.com/audiorama-xhkj",
     "logoUrl": "https://i.postimg.cc/YCrw3Pqs/vida897.png",
     "genre": "Music",
-    "bitrate": 23
+    "bitrate": 24
   },
   {
     "name": "Exa FM 102.9 (Tehuacán)",
