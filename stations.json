@@ -627,7 +627,8 @@
     "name": "LOVE: All you need is love",
     "streamUrl": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
     "logoUrl": "https://cdn-profiles.tunein.com/s91984/images/logod.png",
-    "genre": "News"
+    "genre": "News",
+    "offline": true
   },
   {
     "name": "El Fonógrafo 93.7 FM HD2",
@@ -1009,7 +1010,7 @@
     "streamUrl": "https://stream.zeno.fm/e88fhqnsrk9uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/huntersmusik.png?version=3d8b27de07c488a04a4fd8f8482f6013dd7801e7",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 160
   },
   {
     "name": "La Lupe 99.9 (Gdl)",
@@ -1235,7 +1236,7 @@
     "streamUrl": "https://stream.zeno.fm/9y6f68ssq0hvv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/playmusicguadalajara.png?version=270f66845f1802b89a7b008475de64f657855ff7",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 320
   },
   {
     "name": "La Ke Buena 102.7 FM (Torreón)",
@@ -1283,7 +1284,7 @@
     "streamUrl": "https://stream5.mexiserver.com:1124/stream",
     "logoUrl": "https://cdn-profiles.tunein.com/s135047/images/logod.jpg",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 96
   },
   {
     "name": "La T Grande 990 (Mty)",
@@ -2119,7 +2120,7 @@
     "streamUrl": "https://stream.zeno.fm/78c7xn154v8uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/fusiongrupera889fm.jpeg?version=0ef6313ee0c52b81c3abc114ceddffc792b8186d",
     "genre": "Regional",
-    "bitrate": 320
+    "bitrate": 128
   },
   {
     "name": "Cumbias Sonideras",
@@ -2466,7 +2467,8 @@
     "name": "Maxima 88.5 (Veracruz)",
     "streamUrl": "https://mdstrm.com/audio/66a0112844d3c94ecf11dd96/live.m3u8",
     "logoUrl": "https://cdn-profiles.tunein.com/s343938/images/logod.jpg",
-    "genre": "News"
+    "genre": "News",
+    "offline": true
   },
   {
     "name": "106.7 Maxima (GDL)",
@@ -2816,7 +2818,8 @@
     "name": "Grupera 93.1 (Morelia)",
     "streamUrl": "https://mdstrm.com/audio/66be5c00b6bf50d01ecf55c2/live.m3u8",
     "logoUrl": "https://cdn-profiles.tunein.com/s161252/images/logod.png",
-    "genre": "Regional"
+    "genre": "Regional",
+    "offline": true
   },
   {
     "name": "El Lobo (Chihuahua)",
@@ -3141,7 +3144,8 @@
     "name": "Radio Activa 89.7 FM Hermosillo, Sonora",
     "streamUrl": "https://mdstrm.com/audio/66ad14f0917845e9b7570bf2/live.m3u8",
     "logoUrl": "https://cdn-profiles.tunein.com/s337424/images/logod.png",
-    "genre": "Music"
+    "genre": "Music",
+    "offline": true
   },
   {
     "name": "La Caliente (Delicias)",
@@ -3189,13 +3193,15 @@
     "name": "Maxima 97.5 (Cancún)",
     "streamUrl": "https://mdstrm.com/audio/66e9d6ccaefe12962688efb9/live.m3u8",
     "logoUrl": "https://cdn-profiles.tunein.com/s343465/images/logod.jpg",
-    "genre": "Music"
+    "genre": "Music",
+    "offline": true
   },
   {
     "name": "Love FM 93.1 (Hermosillo)",
     "streamUrl": "https://mdstrm.com/audio/66b0f440b47ad3416c6a654a/live.m3u8",
     "logoUrl": "https://i.postimg.cc/PJ9dpgpn/lovefm931.jpg",
-    "genre": "Music"
+    "genre": "Music",
+    "offline": true
   },
   {
     "name": "Radio Latina 104.5 (Tijuana)",
@@ -4018,7 +4024,8 @@
     "streamUrl": "http://noasrv.caster.fm:10182/live",
     "logoUrl": "https://cdn-profiles.tunein.com/s50611/images/logod.png",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "Mix 90.1 (Toluca)",
@@ -4511,7 +4518,7 @@
     "streamUrl": "https://stream-51.zeno.fm/tn3ch5scy38uv?zs=0CgQIimsTR-hHP_HMaSszA",
     "logoUrl": "https://i.postimg.cc/tT5L6c1s/pixeldigitalradio.png",
     "genre": "Music",
-    "bitrate": 96
+    "bitrate": 48
   },
   {
     "name": "Sol FM 101.3 (Atlixco)",
@@ -4531,7 +4538,8 @@
     "name": "Maxima 98.9 (Ciudad del Carmen)",
     "streamUrl": "https://mdstrm.com/audio/66a3e88f19acc1b9d1487ec0/live.m3u8",
     "logoUrl": "https://i.postimg.cc/y6tmw5PG/maxima989.png",
-    "genre": "Music"
+    "genre": "Music",
+    "offline": true
   },
   {
     "name": "Radiante",
@@ -4717,7 +4725,8 @@
     "name": "Maxima 96.9 (Tuxtla)",
     "streamUrl": "https://mdstrm.com/audio/66be641cd9a22180390f882c/live.m3u8",
     "logoUrl": "https://cdn-profiles.tunein.com/s90953/images/logod.jpg",
-    "genre": "Music"
+    "genre": "Music",
+    "offline": true
   },
   {
     "name": "Exa FM 101.7 (Culiacán)",
@@ -4786,7 +4795,7 @@
     "streamUrl": "https://cast.direcnode.com/proxy/nocturnoaac/stream",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/nocturno.png?version=55e5aadfcefacf3d5d811b6cadd80d85cf62ed75",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 64
   },
   {
     "name": "33hf Stereo Digital",
@@ -6084,7 +6093,7 @@
     "streamUrl": "https://laguna.radio.wnsol.com/;stream.mp3",
     "logoUrl": "https://i.postimg.cc/LspTdWsF/imagenradiolaguna.jpg",
     "genre": "Sports",
-    "bitrate": 96
+    "bitrate": 320
   },
   {
     "name": "Altavoz Radio 88.9 (La Paz)",
@@ -6188,7 +6197,8 @@
     "name": "105.1 La Raza (Hermosillo)",
     "streamUrl": "https://mdstrm.com/audio/6715e0cc481f5a0e45ede939/live.m3u8",
     "logoUrl": "https://cdn-profiles.tunein.com/s88334/images/logod.png",
-    "genre": "Regional"
+    "genre": "Regional",
+    "offline": true
   },
   {
     "name": "LOS40 99.9 (Agua Prieta)",
@@ -6214,14 +6224,15 @@
     "name": "Maxima 96.3 (Hermosillo)",
     "streamUrl": "https://mdstrm.com/audio/66ad356de8f3b93d2da94362/live.m3u8",
     "logoUrl": "https://i.postimg.cc/GhG5CwWy/maxima963.jpg",
-    "genre": "Music"
+    "genre": "Music",
+    "offline": true
   },
   {
     "name": "Mega St☆r Mexico",
     "streamUrl": "http://stream.zeno.fm/ppk72mcbqs8uv",
     "logoUrl": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 56
   },
   {
     "name": "Arroba FM (León)",
@@ -6594,7 +6605,8 @@
     "streamUrl": "https://cast1.my-control-panel.com/proxy/chabela/stream",
     "logoUrl": "",
     "genre": "Regional",
-    "bitrate": 64
+    "bitrate": 64,
+    "offline": true
   },
   {
     "name": "93.3 Crystal (Toluca)",
@@ -7057,8 +7069,7 @@
     "streamUrl": "http://streamingcwsradio10.com:9346/;",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/43/XHNAL_digital89_logo.png",
     "genre": "News",
-    "bitrate": 48,
-    "offline": true
+    "bitrate": 48
   },
   {
     "name": "Super (Chilpancingo)",
@@ -7582,7 +7593,7 @@
     "streamUrl": "https://stream.zeno.fm/bds3sefnuuquv",
     "logoUrl": "",
     "genre": "General",
-    "bitrate": 56
+    "bitrate": 128
   },
   {
     "name": "JM Radio Mas Tropical",
@@ -7765,7 +7776,7 @@
     "streamUrl": "https://stream.zeno.fm/475h26fvz2quv",
     "logoUrl": "",
     "genre": "General",
-    "bitrate": 88
+    "bitrate": 128
   },
   {
     "name": "Éxtasis Digital 102.7 FM",
@@ -7793,7 +7804,7 @@
     "streamUrl": "https://stream.zeno.fm/0ssyb808fxquv.aac",
     "logoUrl": "",
     "genre": "General",
-    "bitrate": 64
+    "bitrate": 128
   },
   {
     "name": "Romance 99.5 FM",
@@ -8011,7 +8022,8 @@
     "streamUrl": "https://radios.blumhost.es/8130/;",
     "logoUrl": "",
     "genre": "Regional",
-    "bitrate": 64
+    "bitrate": 64,
+    "offline": true
   },
   {
     "name": "Radio Centro San Luis 93.9 FM",
@@ -8518,7 +8530,8 @@
     "name": "Máxima 100.9 FM Morelia",
     "streamUrl": "https://mdstrm.com/audio/66a12d64d964f0fc279848a4/live.m3u8",
     "logoUrl": "https://maximafm.com.mx/assets/images/logos/maximafm-morelia.png",
-    "genre": "Music"
+    "genre": "Music",
+    "offline": true
   },
   {
     "name": "Imagen radio (Mexicali)",
@@ -9926,7 +9939,8 @@
     "name": "Máxima 97.7 FM Ciudad Obregón",
     "streamUrl": "https://mdstrm.com/audio/66e9d6f5a8e915acd1a5090d/live.m3u8",
     "logoUrl": "",
-    "genre": "Music"
+    "genre": "Music",
+    "offline": true
   },
   {
     "name": "W Radio 100.1 (Morelos)",
@@ -10008,7 +10022,8 @@
     "name": "La Kaliente 92.9 (Ciudad Obregón)",
     "streamUrl": "https://mdstrm.com/audio/6715e0158ec04cb1e32dabdc/live.m3u8",
     "logoUrl": "https://i.postimg.cc/x8PBpyhh/lakaliente.png",
-    "genre": "Regional"
+    "genre": "Regional",
+    "offline": true
   },
   {
     "name": "El y Ella 103.7 FM",
@@ -10242,7 +10257,8 @@
     "name": "Máxima 93.1 FM Coatzacoalcos",
     "streamUrl": "https://mdstrm.com/audio/66a01c0328071626dc3e6971/live.m3u8",
     "logoUrl": "",
-    "genre": "Music"
+    "genre": "Music",
+    "offline": true
   },
   {
     "name": "Nv Radio 94.1 (Pabellón de Arteaga)",
@@ -10570,7 +10586,8 @@
     "streamUrl": "https://streaming.shoutcast.com/xhld-radio-costa",
     "logoUrl": "https://thumbnail.anii.io/mx/radio-costa-103-9-fm-autlan-de-navarro-mexico.webp",
     "genre": "News",
-    "bitrate": 64
+    "bitrate": 64,
+    "offline": true
   },
   {
     "name": "Radio Patos",
