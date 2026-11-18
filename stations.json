@@ -1010,7 +1010,7 @@
     "streamUrl": "https://stream.zeno.fm/e88fhqnsrk9uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/huntersmusik.png?version=3d8b27de07c488a04a4fd8f8482f6013dd7801e7",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 80
   },
   {
     "name": "La Lupe 99.9 (Gdl)",
@@ -2121,7 +2121,7 @@
     "streamUrl": "https://stream.zeno.fm/78c7xn154v8uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/fusiongrupera889fm.jpeg?version=0ef6313ee0c52b81c3abc114ceddffc792b8186d",
     "genre": "Regional",
-    "bitrate": 320
+    "bitrate": 128
   },
   {
     "name": "Cumbias Sonideras",
@@ -3417,7 +3417,8 @@
     "streamUrl": "https://radios.liberaturadio.org/fmcholollan",
     "logoUrl": "https://fmcholollan.org.mx/wp-content/uploads/2018/08/logoCho.png",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "La Jefa (Camargo)",
@@ -3852,7 +3853,7 @@
     "streamUrl": "https://stream.zeno.fm/5ze4urxay98uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/lamasprendida.jpeg?version=e1675afc7002512e3ede264658b5ab64f94cfeca",
     "genre": "General",
-    "bitrate": 112
+    "bitrate": 128
   },
   {
     "name": "Radiante FM 91.1",
@@ -4513,8 +4514,7 @@
     "streamUrl": "https://cast.zuperdns.net/8004/stream/",
     "logoUrl": "https://i.postimg.cc/jSyVVVHm/larancherita985.jpg",
     "genre": "Regional",
-    "bitrate": 64,
-    "offline": true
+    "bitrate": 64
   },
   {
     "name": "Mix 100.3 FM HD Tacambaro (Tacámbaro)",
@@ -5313,7 +5313,8 @@
     "streamUrl": "http://104.238.144.165:8022/;",
     "logoUrl": "https://i.postimg.cc/d3qdyfWc/radiotec.png",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "Grupo Radioasta 107.9 (Ensenada)",
@@ -5541,7 +5542,7 @@
     "streamUrl": "https://s5.mexside.net:8100/stream",
     "logoUrl": "https://rclasicos.com/logohd2022.png",
     "genre": "Music",
-    "bitrate": 192
+    "bitrate": 80
   },
   {
     "name": "La Rancherita Juárez 1000 AM",
@@ -6194,8 +6195,7 @@
     "streamUrl": "http://mensajito.mx:8000/nopalA",
     "logoUrl": "",
     "genre": "General",
-    "bitrate": 128,
-    "offline": true
+    "bitrate": 128
   },
   {
     "name": "105.1 La Raza (Hermosillo)",
@@ -7072,7 +7072,8 @@
     "streamUrl": "http://streamingcwsradio10.com:9346/;",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/43/XHNAL_digital89_logo.png",
     "genre": "News",
-    "bitrate": 48
+    "bitrate": 48,
+    "offline": true
   },
   {
     "name": "Super (Chilpancingo)",
@@ -7568,7 +7569,7 @@
     "streamUrl": "https://servidor16-2.brlogic.com:7062/live",
     "logoUrl": "https://platform-upload.cdn-brlogic.com/253324/editor/d865aadedcacf11cba4ec34bcf31867f.png",
     "genre": "Music",
-    "bitrate": 96
+    "bitrate": 128
   },
   {
     "name": "LOS40 Oaxaca",
@@ -7997,7 +7998,7 @@
     "streamUrl": "https://sg.centrocibernetico.com/audiorama-xewf",
     "logoUrl": "https://thumbnail.anii.io/mx/radio-la-bestia-grupera-103-5-fm-nogales-mexico.webp",
     "genre": "Regional",
-    "bitrate": 24
+    "bitrate": 23
   },
   {
     "name": "Buenisiima CDMX",
@@ -8290,7 +8291,8 @@
     "streamUrl": "https://sh.fl-us.audio-stream.com/proxy/cledez02?mp=/stream",
     "logoUrl": "",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "Rock Alive Radio",
@@ -9649,7 +9651,7 @@
     "streamUrl": "https://stream20.usastreams.com:8070/stream",
     "logoUrl": "https://www.lacomadre1017.com/wp-content/uploads/2025/11/logo_comadre-1.png",
     "genre": "Regional",
-    "bitrate": 112
+    "bitrate": 192
   },
   {
     "name": "Exosfera Radio",
@@ -10099,8 +10101,7 @@
     "streamUrl": "https://cast.zuperdns.net/8018/stream/",
     "logoUrl": "https://grupozer.mx/images/portada/logos/804.png",
     "genre": "Music",
-    "bitrate": 56,
-    "offline": true
+    "bitrate": 56
   },
   {
     "name": "Joya 101.7 (Tuxtla)",
@@ -10587,7 +10588,8 @@
     "streamUrl": "https://streaming.shoutcast.com/xhld-radio-costa",
     "logoUrl": "https://thumbnail.anii.io/mx/radio-costa-103-9-fm-autlan-de-navarro-mexico.webp",
     "genre": "News",
-    "bitrate": 64
+    "bitrate": 64,
+    "offline": true
   },
   {
     "name": "Radio Patos",
