@@ -600,7 +600,7 @@
     "streamUrl": "https://stream.promomedios.com:8002/stream",
     "logoUrl": "https://cdn-profiles.tunein.com/s2996/images/logod.jpg",
     "genre": "Regional",
-    "bitrate": 56
+    "bitrate": 52
   },
   {
     "name": "Disco by Mix",
@@ -1010,7 +1010,7 @@
     "streamUrl": "https://stream.zeno.fm/e88fhqnsrk9uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/huntersmusik.png?version=3d8b27de07c488a04a4fd8f8482f6013dd7801e7",
     "genre": "General",
-    "bitrate": 80
+    "bitrate": 112
   },
   {
     "name": "La Lupe 99.9 (Gdl)",
@@ -1671,7 +1671,7 @@
     "streamUrl": "https://stream-288.surfernetwork.com/eqwa6e9p7yzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlcXdhNmU5cDd5enV2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik8xUjhYZU40U1Bxb3VFTG01WXgzT1EiLCJpYXQiOjE3OTM1MjgyNjcsImV4cCI6MTc5MzUyODMyN30.vkDTP2qRCq3j4OhhvpHRxB_Qo6EFwiTH996ajhMa9YI",
     "logoUrl": "",
     "genre": "Regional",
-    "bitrate": 48
+    "bitrate": 64
   },
   {
     "name": "Arroba FM (Reynosa)",
@@ -3417,8 +3417,7 @@
     "streamUrl": "https://radios.liberaturadio.org/fmcholollan",
     "logoUrl": "https://fmcholollan.org.mx/wp-content/uploads/2018/08/logoCho.png",
     "genre": "General",
-    "bitrate": 128,
-    "offline": true
+    "bitrate": 128
   },
   {
     "name": "La Jefa (Camargo)",
@@ -3635,7 +3634,8 @@
     "streamUrl": "https://streaming.servicioswebmx.com/8028/;",
     "logoUrl": "https://station-images-prod.radio-assets.com/175/radiovisionedgar.png?version=065ccbee31780b233790c37806dae210e0341c18",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "Capital Del Rock",
@@ -3853,7 +3853,7 @@
     "streamUrl": "https://stream.zeno.fm/5ze4urxay98uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/lamasprendida.jpeg?version=e1675afc7002512e3ede264658b5ab64f94cfeca",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 112
   },
   {
     "name": "Radiante FM 91.1",
@@ -4027,8 +4027,7 @@
     "streamUrl": "http://noasrv.caster.fm:10182/live",
     "logoUrl": "https://cdn-profiles.tunein.com/s50611/images/logod.png",
     "genre": "Music",
-    "bitrate": 128,
-    "offline": true
+    "bitrate": 128
   },
   {
     "name": "Mix 90.1 (Toluca)",
@@ -4439,7 +4438,7 @@
     "streamUrl": "https://stm11.xcast.com.br:9640/stream",
     "logoUrl": "https://i.postimg.cc/634v3XFM/contacto.png",
     "genre": "News",
-    "bitrate": 112
+    "bitrate": 128
   },
   {
     "name": "Radio Fórmula 1470 (CDMX)",
@@ -5396,7 +5395,7 @@
     "streamUrl": "https://stream.zeno.fm/yg63h9ekvjhvv",
     "logoUrl": "https://cdn-profiles.tunein.com/s91306/images/logod.png",
     "genre": "Regional",
-    "bitrate": 128
+    "bitrate": 192
   },
   {
     "name": "La Kaliente (Aguascalientes)",
@@ -5542,7 +5541,7 @@
     "streamUrl": "https://s5.mexside.net:8100/stream",
     "logoUrl": "https://rclasicos.com/logohd2022.png",
     "genre": "Music",
-    "bitrate": 80
+    "bitrate": 192
   },
   {
     "name": "La Rancherita Juárez 1000 AM",
@@ -5619,7 +5618,8 @@
     "streamUrl": "https://streamingcwsradio30.com/8216/stream",
     "logoUrl": "https://kuasark.com/files/stations-logos/fantasia-radio.png",
     "genre": "Sports",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "LOS40 88.5 (Monterrey)",
@@ -5697,7 +5697,8 @@
     "streamUrl": "https://stream-158.zeno.fm/6f2bace3gd0uv",
     "logoUrl": "https://i.postimg.cc/vBYXvmWz/soyfmcoatzacoalcos.png",
     "genre": "Music",
-    "bitrate": 48
+    "bitrate": 48,
+    "offline": true
   },
   {
     "name": "La AW",
@@ -6236,7 +6237,7 @@
     "streamUrl": "http://stream.zeno.fm/ppk72mcbqs8uv",
     "logoUrl": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
     "genre": "Music",
-    "bitrate": 96
+    "bitrate": 128
   },
   {
     "name": "Arroba FM (León)",
@@ -6602,7 +6603,7 @@
     "streamUrl": "https://sg.centrocibernetico.com/audiorama-xhevp",
     "logoUrl": "https://cdn-radiotime-logos.tunein.com/s90519d.png",
     "genre": "Regional",
-    "bitrate": 24
+    "bitrate": 25
   },
   {
     "name": "La Chabela",
@@ -6954,7 +6955,7 @@
     "streamUrl": "https://stream.zeno.fm/uwvn15eu01zuv",
     "logoUrl": "",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 56
   },
   {
     "name": "Capitan 95",
@@ -7346,7 +7347,8 @@
     "streamUrl": "http://s1.vvtelecom.net:8000/rvisac",
     "logoUrl": "https://www.radiovisa.tv/logo_caborca.png",
     "genre": "Regional",
-    "bitrate": 256
+    "bitrate": 256,
+    "offline": true
   },
   {
     "name": "La Ke Buena Apatzingán",
@@ -7569,7 +7571,7 @@
     "streamUrl": "https://servidor16-2.brlogic.com:7062/live",
     "logoUrl": "https://platform-upload.cdn-brlogic.com/253324/editor/d865aadedcacf11cba4ec34bcf31867f.png",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 96
   },
   {
     "name": "LOS40 Oaxaca",
@@ -7920,7 +7922,8 @@
     "streamUrl": "http://stream.zeno.fm/47zpzaa0fkhvv",
     "logoUrl": "https://i.postimg.cc/cLHBSx7n/vidaazul.png",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "Radio UdeG Autlán",
@@ -8291,8 +8294,7 @@
     "streamUrl": "https://sh.fl-us.audio-stream.com/proxy/cledez02?mp=/stream",
     "logoUrl": "",
     "genre": "General",
-    "bitrate": 128,
-    "offline": true
+    "bitrate": 128
   },
   {
     "name": "Rock Alive Radio",
@@ -8410,7 +8412,7 @@
     "streamUrl": "http://sigmaradio.stream:9000/index",
     "logoUrl": "https://sigmaradiodelicias.com/wp-content/uploads/2018/08/cropped-favicon-sigmaradio-180x180.png",
     "genre": "Music",
-    "bitrate": 96
+    "bitrate": 75
   },
   {
     "name": "102.9 Buenavista Radio (Ciudad Valles)",
@@ -9601,7 +9603,8 @@
     "streamUrl": "https://radios.blumhost.es/8104/;",
     "logoUrl": "",
     "genre": "Regional",
-    "bitrate": 64
+    "bitrate": 64,
+    "offline": true
   },
   {
     "name": "99.7 Globo (Ciudad Acuña)",
@@ -9867,7 +9870,7 @@
     "streamUrl": "https://stream.zeno.fm/pxsn7t7zfkhvv",
     "logoUrl": "https://static.wixstatic.com/media/c7da22_673fbcf9ced64c7fbf528ed12839c9e6%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/c7da22_673fbcf9ced64c7fbf528ed12839c9e6%7emv2.png",
     "genre": "Regional",
-    "bitrate": 128
+    "bitrate": 96
   },
   {
     "name": "La Bestia Grupera Puerto Peñasco 93.5 FM",
@@ -10115,7 +10118,7 @@
     "streamUrl": "https://stream.zeno.fm/3agiabarewutv",
     "logoUrl": "https://www.radiorama.mx/Develop/players/xhiq/xhiq.jpg",
     "genre": "Music",
-    "bitrate": 192
+    "bitrate": 96
   },
   {
     "name": "La 103 Los Mochis 103.9 FM",
@@ -10171,7 +10174,8 @@
     "streamUrl": "https://streaming.soyradioinc.com/guasave2/stream",
     "logoUrl": "",
     "genre": "News",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "Creo Radio (Guachochi)",
