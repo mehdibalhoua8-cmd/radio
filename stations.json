@@ -600,7 +600,7 @@
     "streamUrl": "https://stream.promomedios.com:8002/stream",
     "logoUrl": "https://cdn-profiles.tunein.com/s2996/images/logod.jpg",
     "genre": "Regional",
-    "bitrate": 52
+    "bitrate": 56
   },
   {
     "name": "Disco by Mix",
@@ -1010,7 +1010,7 @@
     "streamUrl": "https://stream.zeno.fm/e88fhqnsrk9uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/huntersmusik.png?version=3d8b27de07c488a04a4fd8f8482f6013dd7801e7",
     "genre": "General",
-    "bitrate": 112
+    "bitrate": 128
   },
   {
     "name": "La Lupe 99.9 (Gdl)",
@@ -1678,7 +1678,7 @@
     "streamUrl": "https://stream.zeno.fm/b04err5zfkhvv",
     "logoUrl": "https://www.arroba.fm/ciudad/img/logos/Reynosa/Reynosa@FM_webnac.png",
     "genre": "Music",
-    "bitrate": 64
+    "bitrate": 96
   },
   {
     "name": "Radio Recuerdo 860 (Mty)",
@@ -1857,8 +1857,7 @@
     "streamUrl": "https://streamingcwsradio30.com:7184/stream",
     "logoUrl": "https://cdn-profiles.tunein.com/s12599/images/logod.png",
     "genre": "News",
-    "bitrate": 128,
-    "offline": true
+    "bitrate": 128
   },
   {
     "name": "Arroba FM 88.5 (Chihuahua)",
@@ -2121,7 +2120,7 @@
     "streamUrl": "https://stream.zeno.fm/78c7xn154v8uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/fusiongrupera889fm.jpeg?version=0ef6313ee0c52b81c3abc114ceddffc792b8186d",
     "genre": "Regional",
-    "bitrate": 128
+    "bitrate": 320
   },
   {
     "name": "Cumbias Sonideras",
@@ -2406,7 +2405,8 @@
     "streamUrl": "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6737c55f827a7efae201a949",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/la-lupe-953-tijuana.png?version=48464da0e78e16f1fae26587d8e1bbcde6081ba2",
     "genre": "Regional",
-    "bitrate": 93
+    "bitrate": 93,
+    "offline": true
   },
   {
     "name": "La Lupe 90.7 FM (Culiacán)",
@@ -3417,7 +3417,7 @@
     "streamUrl": "https://radios.liberaturadio.org/fmcholollan",
     "logoUrl": "https://fmcholollan.org.mx/wp-content/uploads/2018/08/logoCho.png",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 192
   },
   {
     "name": "La Jefa (Camargo)",
@@ -5395,7 +5395,7 @@
     "streamUrl": "https://stream.zeno.fm/yg63h9ekvjhvv",
     "logoUrl": "https://cdn-profiles.tunein.com/s91306/images/logod.png",
     "genre": "Regional",
-    "bitrate": 192
+    "bitrate": 128
   },
   {
     "name": "La Kaliente (Aguascalientes)",
@@ -5514,7 +5514,8 @@
     "streamUrl": "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/672cfa60673e8a2bb4c73fca",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/lacalientelinares.png?version=b1adce04b5a2a56c7355027238a9b6a4ffd9a44c",
     "genre": "General",
-    "bitrate": 93
+    "bitrate": 93,
+    "offline": true
   },
   {
     "name": "Hits FM Chihuahua",
@@ -5697,8 +5698,7 @@
     "streamUrl": "https://stream-158.zeno.fm/6f2bace3gd0uv",
     "logoUrl": "https://i.postimg.cc/vBYXvmWz/soyfmcoatzacoalcos.png",
     "genre": "Music",
-    "bitrate": 48,
-    "offline": true
+    "bitrate": 48
   },
   {
     "name": "La AW",
@@ -7073,8 +7073,7 @@
     "streamUrl": "http://streamingcwsradio10.com:9346/;",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/43/XHNAL_digital89_logo.png",
     "genre": "News",
-    "bitrate": 48,
-    "offline": true
+    "bitrate": 48
   },
   {
     "name": "Super (Chilpancingo)",
@@ -7347,8 +7346,7 @@
     "streamUrl": "http://s1.vvtelecom.net:8000/rvisac",
     "logoUrl": "https://www.radiovisa.tv/logo_caborca.png",
     "genre": "Regional",
-    "bitrate": 256,
-    "offline": true
+    "bitrate": 256
   },
   {
     "name": "La Ke Buena Apatzingán",
@@ -7467,7 +7465,7 @@
     "streamUrl": "https://stream.zeno.fm/bmv92smzzbruv",
     "logoUrl": "",
     "genre": "General",
-    "bitrate": 80
+    "bitrate": 56
   },
   {
     "name": "La Bestia Grupera (Tecomán)",
@@ -7571,7 +7569,7 @@
     "streamUrl": "https://servidor16-2.brlogic.com:7062/live",
     "logoUrl": "https://platform-upload.cdn-brlogic.com/253324/editor/d865aadedcacf11cba4ec34bcf31867f.png",
     "genre": "Music",
-    "bitrate": 96
+    "bitrate": 128
   },
   {
     "name": "LOS40 Oaxaca",
@@ -7922,8 +7920,7 @@
     "streamUrl": "http://stream.zeno.fm/47zpzaa0fkhvv",
     "logoUrl": "https://i.postimg.cc/cLHBSx7n/vidaazul.png",
     "genre": "Music",
-    "bitrate": 128,
-    "offline": true
+    "bitrate": 128
   },
   {
     "name": "Radio UdeG Autlán",
@@ -8001,7 +7998,7 @@
     "streamUrl": "https://sg.centrocibernetico.com/audiorama-xewf",
     "logoUrl": "https://thumbnail.anii.io/mx/radio-la-bestia-grupera-103-5-fm-nogales-mexico.webp",
     "genre": "Regional",
-    "bitrate": 23
+    "bitrate": 25
   },
   {
     "name": "Buenisiima CDMX",
@@ -8412,7 +8409,7 @@
     "streamUrl": "http://sigmaradio.stream:9000/index",
     "logoUrl": "https://sigmaradiodelicias.com/wp-content/uploads/2018/08/cropped-favicon-sigmaradio-180x180.png",
     "genre": "Music",
-    "bitrate": 75
+    "bitrate": 96
   },
   {
     "name": "102.9 Buenavista Radio (Ciudad Valles)",
@@ -8700,7 +8697,7 @@
     "streamUrl": "https://ssl.sigmaradio.stream:9004/stream",
     "logoUrl": "https://cdn-profiles.tunein.com/s148725/images/logod.png",
     "genre": "Music",
-    "bitrate": 80
+    "bitrate": 96
   },
   {
     "name": "GDL 89.1 La Bestia Grupera XHGDA",
@@ -9603,8 +9600,7 @@
     "streamUrl": "https://radios.blumhost.es/8104/;",
     "logoUrl": "",
     "genre": "Regional",
-    "bitrate": 64,
-    "offline": true
+    "bitrate": 64
   },
   {
     "name": "99.7 Globo (Ciudad Acuña)",
@@ -9654,7 +9650,7 @@
     "streamUrl": "https://stream20.usastreams.com:8070/stream",
     "logoUrl": "https://www.lacomadre1017.com/wp-content/uploads/2025/11/logo_comadre-1.png",
     "genre": "Regional",
-    "bitrate": 192
+    "bitrate": 112
   },
   {
     "name": "Exosfera Radio",
@@ -10174,8 +10170,7 @@
     "streamUrl": "https://streaming.soyradioinc.com/guasave2/stream",
     "logoUrl": "",
     "genre": "News",
-    "bitrate": 128,
-    "offline": true
+    "bitrate": 128
   },
   {
     "name": "Creo Radio (Guachochi)",
@@ -10418,7 +10413,7 @@
     "streamUrl": "https://stream.zeno.fm/rwbcgzwy5x8uv",
     "logoUrl": "",
     "genre": "General",
-    "bitrate": 192
+    "bitrate": 128
   },
   {
     "name": "LOS40 CDMX 101.7 FM",
@@ -10571,7 +10566,8 @@
     "streamUrl": "https://shoutcast.uplinkmx.com:8000/;stream/1",
     "logoUrl": "https://i.postimg.cc/6pCtsH2P/xecsac.jpg",
     "genre": "News",
-    "bitrate": 64
+    "bitrate": 64,
+    "offline": true
   },
   {
     "name": "Cuellar Podcaster Radio",
@@ -10600,7 +10596,7 @@
     "streamUrl": "https://mediastreamm.com/8156/stream",
     "logoUrl": "https://i0.wp.com/patos.mx/radio/wp-content/uploads/2024/01/radio-patos.webp?fit=200%2C93&ssl=1",
     "genre": "News",
-    "bitrate": 144
+    "bitrate": 48
   },
   {
     "name": "Heraldo radio (Cd. Juarez)",
