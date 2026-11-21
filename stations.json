@@ -1010,7 +1010,7 @@
     "streamUrl": "https://stream.zeno.fm/e88fhqnsrk9uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/huntersmusik.png?version=3d8b27de07c488a04a4fd8f8482f6013dd7801e7",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 96
   },
   {
     "name": "La Lupe 99.9 (Gdl)",
@@ -1403,7 +1403,7 @@
     "streamUrl": "https://streaming.servicioswebmx.com/8272/stream",
     "logoUrl": "https://cdn-profiles.tunein.com/s90132/images/logod.png",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 192
   },
   {
     "name": "Lokura FM Rock Querétaro 104.9 FM",
@@ -1554,7 +1554,8 @@
     "streamUrl": "https://mdstrm.com/audio/6737c447a675400dcf9348d1/icecast.audio?property=radionet",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/lakebuenalinares.png?version=7058d1860a4ed716d9f14a75aeb9e779543d2c09",
     "genre": "Regional",
-    "bitrate": 93
+    "bitrate": 93,
+    "offline": true
   },
   {
     "name": "La Lupe 88.9 FM (Oaxaca)",
@@ -1780,7 +1781,7 @@
     "streamUrl": "https://a13.asurahosting.com/listen/stereo_beam/radio.mp3",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/stereobeam.png?version=463fa9471ea5d1264b2b6886195a5782cd097d19",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 208
   },
   {
     "name": "Radio SUPERACIÓN ECMC",
@@ -2567,8 +2568,7 @@
     "streamUrl": "http://giss.tv:8001/alicia_radio.mp3",
     "logoUrl": "https://multiforoalicia.org/wp-content/uploads/2024/03/CM26lLOUYAAur1s-150x150.jpeg",
     "genre": "Music",
-    "bitrate": 128,
-    "offline": true
+    "bitrate": 128
   },
   {
     "name": "96.9 LOS40 (Ensenada)",
@@ -3634,8 +3634,7 @@
     "streamUrl": "https://streaming.servicioswebmx.com/8028/;",
     "logoUrl": "https://station-images-prod.radio-assets.com/175/radiovisionedgar.png?version=065ccbee31780b233790c37806dae210e0341c18",
     "genre": "General",
-    "bitrate": 128,
-    "offline": true
+    "bitrate": 128
   },
   {
     "name": "Capital Del Rock",
@@ -3853,7 +3852,7 @@
     "streamUrl": "https://stream.zeno.fm/5ze4urxay98uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/lamasprendida.jpeg?version=e1675afc7002512e3ede264658b5ab64f94cfeca",
     "genre": "General",
-    "bitrate": 112
+    "bitrate": 128
   },
   {
     "name": "Radiante FM 91.1",
@@ -4438,7 +4437,7 @@
     "streamUrl": "https://stm11.xcast.com.br:9640/stream",
     "logoUrl": "https://i.postimg.cc/634v3XFM/contacto.png",
     "genre": "News",
-    "bitrate": 128
+    "bitrate": 112
   },
   {
     "name": "Radio Fórmula 1470 (CDMX)",
@@ -4562,7 +4561,7 @@
     "streamUrl": "https://stream.zeno.fm/0snf1r835k0uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/freeaktivo.png?version=c15c4227378060ead10d6999928f75cc7dd952a6",
     "genre": "General",
-    "bitrate": 96
+    "bitrate": 128
   },
   {
     "name": "Classic Rock Fire",
@@ -5395,7 +5394,7 @@
     "streamUrl": "https://stream.zeno.fm/yg63h9ekvjhvv",
     "logoUrl": "https://cdn-profiles.tunein.com/s91306/images/logod.png",
     "genre": "Regional",
-    "bitrate": 128
+    "bitrate": 192
   },
   {
     "name": "La Kaliente (Aguascalientes)",
@@ -5409,7 +5408,8 @@
     "streamUrl": "https://streaming.servicioswebmx.com/8202/stream",
     "logoUrl": "",
     "genre": "Regional",
-    "bitrate": 224
+    "bitrate": 224,
+    "offline": true
   },
   {
     "name": "Soy FM 93.9 (Tuxpan)",
@@ -5619,8 +5619,7 @@
     "streamUrl": "https://streamingcwsradio30.com/8216/stream",
     "logoUrl": "https://kuasark.com/files/stations-logos/fantasia-radio.png",
     "genre": "Sports",
-    "bitrate": 128,
-    "offline": true
+    "bitrate": 128
   },
   {
     "name": "LOS40 88.5 (Monterrey)",
@@ -6603,7 +6602,7 @@
     "streamUrl": "https://sg.centrocibernetico.com/audiorama-xhevp",
     "logoUrl": "https://cdn-radiotime-logos.tunein.com/s90519d.png",
     "genre": "Regional",
-    "bitrate": 25
+    "bitrate": 23
   },
   {
     "name": "La Chabela",
@@ -7569,7 +7568,7 @@
     "streamUrl": "https://servidor16-2.brlogic.com:7062/live",
     "logoUrl": "https://platform-upload.cdn-brlogic.com/253324/editor/d865aadedcacf11cba4ec34bcf31867f.png",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 96
   },
   {
     "name": "LOS40 Oaxaca",
@@ -10329,7 +10328,8 @@
     "streamUrl": "https://streaming.shoutcast.com/laperrona",
     "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/964/la-perrona.fa0fb94c.png",
     "genre": "Regional",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "La GS 104.7 FM Guasave",
@@ -10566,8 +10566,7 @@
     "streamUrl": "https://shoutcast.uplinkmx.com:8000/;stream/1",
     "logoUrl": "https://i.postimg.cc/6pCtsH2P/xecsac.jpg",
     "genre": "News",
-    "bitrate": 64,
-    "offline": true
+    "bitrate": 64
   },
   {
     "name": "Cuellar Podcaster Radio",
