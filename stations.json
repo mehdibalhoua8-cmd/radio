@@ -1010,7 +1010,7 @@
     "streamUrl": "https://stream.zeno.fm/e88fhqnsrk9uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/huntersmusik.png?version=3d8b27de07c488a04a4fd8f8482f6013dd7801e7",
     "genre": "General",
-    "bitrate": 96
+    "bitrate": 128
   },
   {
     "name": "La Lupe 99.9 (Gdl)",
@@ -2121,7 +2121,7 @@
     "streamUrl": "https://stream.zeno.fm/78c7xn154v8uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/fusiongrupera889fm.jpeg?version=0ef6313ee0c52b81c3abc114ceddffc792b8186d",
     "genre": "Regional",
-    "bitrate": 320
+    "bitrate": 128
   },
   {
     "name": "Cumbias Sonideras",
@@ -2526,7 +2526,8 @@
     "streamUrl": "https://radio.e-ver.com.mx:8001/live",
     "logoUrl": "https://i.postimg.cc/qM3fT6P7/radiobemba.png",
     "genre": "News",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "LOS40 98.9 (Veracruz)",
@@ -2986,7 +2987,8 @@
     "name": "Radio Fórmula 100.1 (Poza Rica)",
     "streamUrl": "https://stream.radiojar.com/yqkm4a9n3p8uv",
     "logoUrl": "https://i.iheart.com/v3/re/new_assets/5ec846d816ae36fb1eabb149",
-    "genre": "News"
+    "genre": "News",
+    "offline": true
   },
   {
     "name": "2022 FM (Morelia)",
@@ -3055,7 +3057,8 @@
     "streamUrl": "https://ss1.audiorama.com.mx:6674/stream",
     "logoUrl": "https://i.postimg.cc/x1pzfJxn/exa1070.jpg",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "LA HR 1090 (Puebla)",
@@ -3852,7 +3855,7 @@
     "streamUrl": "https://stream.zeno.fm/5ze4urxay98uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/lamasprendida.jpeg?version=e1675afc7002512e3ede264658b5ab64f94cfeca",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 112
   },
   {
     "name": "Radiante FM 91.1",
@@ -4005,7 +4008,8 @@
     "streamUrl": "https://streaming.servicioswebmx.com/8204/stream",
     "logoUrl": "https://i.postimg.cc/wTPPDVHV/wradio959.png",
     "genre": "Sports",
-    "bitrate": 192
+    "bitrate": 192,
+    "offline": true
   },
   {
     "name": "La Plakosa 95.3 (Culiacán)",
@@ -6027,7 +6031,8 @@
     "streamUrl": "https://streaming.servicioswebmx.com/8234/stream",
     "logoUrl": "",
     "genre": "News",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "La Comadre (Mérida)",
@@ -6506,7 +6511,8 @@
     "streamUrl": "https://streaming.servicioswebmx.com/8068/stream",
     "logoUrl": "",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "Radio Evolución",
@@ -6602,7 +6608,7 @@
     "streamUrl": "https://sg.centrocibernetico.com/audiorama-xhevp",
     "logoUrl": "https://cdn-radiotime-logos.tunein.com/s90519d.png",
     "genre": "Regional",
-    "bitrate": 23
+    "bitrate": 24
   },
   {
     "name": "La Chabela",
@@ -6764,7 +6770,8 @@
     "streamUrl": "https://stream.zeno.fm/ztaaloxto5evv",
     "logoUrl": "",
     "genre": "General",
-    "bitrate": 256
+    "bitrate": 256,
+    "offline": true
   },
   {
     "name": "Agave Radio",
@@ -8408,7 +8415,7 @@
     "streamUrl": "http://sigmaradio.stream:9000/index",
     "logoUrl": "https://sigmaradiodelicias.com/wp-content/uploads/2018/08/cropped-favicon-sigmaradio-180x180.png",
     "genre": "Music",
-    "bitrate": 96
+    "bitrate": 75
   },
   {
     "name": "102.9 Buenavista Radio (Ciudad Valles)",
@@ -8696,7 +8703,7 @@
     "streamUrl": "https://ssl.sigmaradio.stream:9004/stream",
     "logoUrl": "https://cdn-profiles.tunein.com/s148725/images/logod.png",
     "genre": "Music",
-    "bitrate": 96
+    "bitrate": 75
   },
   {
     "name": "GDL 89.1 La Bestia Grupera XHGDA",
@@ -10113,7 +10120,7 @@
     "streamUrl": "https://stream.zeno.fm/3agiabarewutv",
     "logoUrl": "https://www.radiorama.mx/Develop/players/xhiq/xhiq.jpg",
     "genre": "Music",
-    "bitrate": 96
+    "bitrate": 192
   },
   {
     "name": "La 103 Los Mochis 103.9 FM",
@@ -10328,8 +10335,7 @@
     "streamUrl": "https://streaming.shoutcast.com/laperrona",
     "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/964/la-perrona.fa0fb94c.png",
     "genre": "Regional",
-    "bitrate": 128,
-    "offline": true
+    "bitrate": 128
   },
   {
     "name": "La GS 104.7 FM Guasave",
@@ -10392,7 +10398,7 @@
     "streamUrl": "https://sg.centrocibernetico.com/audiorama-xhkj",
     "logoUrl": "https://i.postimg.cc/YCrw3Pqs/vida897.png",
     "genre": "Music",
-    "bitrate": 24
+    "bitrate": 23
   },
   {
     "name": "Exa FM 102.9 (Tehuacán)",
@@ -10587,15 +10593,15 @@
     "streamUrl": "https://streaming.shoutcast.com/xhld-radio-costa",
     "logoUrl": "https://thumbnail.anii.io/mx/radio-costa-103-9-fm-autlan-de-navarro-mexico.webp",
     "genre": "News",
-    "bitrate": 64,
-    "offline": true
+    "bitrate": 64
   },
   {
     "name": "Radio Patos",
     "streamUrl": "https://mediastreamm.com/8156/stream",
     "logoUrl": "https://i0.wp.com/patos.mx/radio/wp-content/uploads/2024/01/radio-patos.webp?fit=200%2C93&ssl=1",
     "genre": "News",
-    "bitrate": 48
+    "bitrate": 48,
+    "offline": true
   },
   {
     "name": "Heraldo radio (Cd. Juarez)",
