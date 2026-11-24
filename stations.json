@@ -1284,7 +1284,7 @@
     "streamUrl": "https://stream5.mexiserver.com:1124/stream",
     "logoUrl": "https://cdn-profiles.tunein.com/s135047/images/logod.jpg",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 96
   },
   {
     "name": "La T Grande 990 (Mty)",
@@ -2505,7 +2505,8 @@
     "streamUrl": "https://secure.radiorama.mx:2122/",
     "logoUrl": "https://cdn-radiotime-logos.tunein.com/s90652d.png",
     "genre": "Music",
-    "bitrate": 64
+    "bitrate": 64,
+    "offline": true
   },
   {
     "name": "Exa FM 91.7 (Tijuana)",
@@ -2660,7 +2661,7 @@
     "streamUrl": "https://stream.zeno.fm/cltpbd1wwacvv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/houseradiomx.png?version=dfb5526cfbff90c0ec1bdbf315822ca204b54073",
     "genre": "General",
-    "bitrate": 320
+    "bitrate": 128
   },
   {
     "name": "Eternamente Enamora2",
@@ -2792,8 +2793,7 @@
     "streamUrl": "https://streamingcwsradio30.com:7006/stream.mp3",
     "logoUrl": "https://thumbnail.anii.io/mx/radio-ranchito-99-7-fm-aguascalientes-mexico.webp",
     "genre": "Regional",
-    "bitrate": 128,
-    "offline": true
+    "bitrate": 128
   },
   {
     "name": "LOS40 104.1 (Xalapa)",
@@ -4524,7 +4524,7 @@
     "streamUrl": "https://stream-51.zeno.fm/tn3ch5scy38uv?zs=0CgQIimsTR-hHP_HMaSszA",
     "logoUrl": "https://i.postimg.cc/tT5L6c1s/pixeldigitalradio.png",
     "genre": "Music",
-    "bitrate": 48
+    "bitrate": 80
   },
   {
     "name": "Sol FM 101.3 (Atlixco)",
@@ -4949,7 +4949,8 @@
     "streamUrl": "https://cast4.asurahosting.com/proxy/radiocan/stream",
     "logoUrl": "https://cdn-profiles.tunein.com/s91474/images/logod.png",
     "genre": "Regional",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "Radio Crystal 1240 AM (Ciudad Juárez)",
@@ -5401,7 +5402,7 @@
     "streamUrl": "https://stream.zeno.fm/yg63h9ekvjhvv",
     "logoUrl": "https://cdn-profiles.tunein.com/s91306/images/logod.png",
     "genre": "Regional",
-    "bitrate": 192
+    "bitrate": 128
   },
   {
     "name": "La Kaliente (Aguascalientes)",
@@ -5415,8 +5416,7 @@
     "streamUrl": "https://streaming.servicioswebmx.com/8202/stream",
     "logoUrl": "",
     "genre": "Regional",
-    "bitrate": 224,
-    "offline": true
+    "bitrate": 224
   },
   {
     "name": "Soy FM 93.9 (Tuxpan)",
@@ -6557,7 +6557,7 @@
     "streamUrl": "https://jm8n.net/8078/stream",
     "logoUrl": "",
     "genre": "Regional",
-    "bitrate": 64
+    "bitrate": 128
   },
   {
     "name": "JM Radio Salsa Cumbiando",
@@ -6899,8 +6899,7 @@
     "streamUrl": "https://secure.radiorama.mx:2073/",
     "logoUrl": "https://cdn-profiles.tunein.com/s356741/images/logod.jpg",
     "genre": "News",
-    "bitrate": 64,
-    "offline": true
+    "bitrate": 64
   },
   {
     "name": "Switch 105.9 Ciudad Juárez",
@@ -7082,7 +7081,8 @@
     "streamUrl": "http://streamingcwsradio10.com:9346/;",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/43/XHNAL_digital89_logo.png",
     "genre": "News",
-    "bitrate": 48
+    "bitrate": 48,
+    "offline": true
   },
   {
     "name": "Super (Chilpancingo)",
@@ -7929,7 +7929,8 @@
     "streamUrl": "http://stream.zeno.fm/47zpzaa0fkhvv",
     "logoUrl": "https://i.postimg.cc/cLHBSx7n/vidaazul.png",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "Radio UdeG Autlán",
@@ -8419,7 +8420,7 @@
     "streamUrl": "http://sigmaradio.stream:9000/index",
     "logoUrl": "https://sigmaradiodelicias.com/wp-content/uploads/2018/08/cropped-favicon-sigmaradio-180x180.png",
     "genre": "Music",
-    "bitrate": 96
+    "bitrate": 80
   },
   {
     "name": "102.9 Buenavista Radio (Ciudad Valles)",
@@ -8517,7 +8518,8 @@
     "streamUrl": "https://radio.perustream.com/8032/stream",
     "logoUrl": "",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "Super FM 99.5",
@@ -8707,7 +8709,7 @@
     "streamUrl": "https://ssl.sigmaradio.stream:9004/stream",
     "logoUrl": "https://cdn-profiles.tunein.com/s148725/images/logod.png",
     "genre": "Music",
-    "bitrate": 75
+    "bitrate": 80
   },
   {
     "name": "GDL 89.1 La Bestia Grupera XHGDA",
@@ -8862,7 +8864,8 @@
     "streamUrl": "https://secure.radiorama.mx:2125/",
     "logoUrl": "https://cdn-radiotime-logos.tunein.com/s90559d.png",
     "genre": "Music",
-    "bitrate": 64
+    "bitrate": 64,
+    "offline": true
   },
   {
     "name": "+Que Viva México Radio (MTY)",
@@ -10340,7 +10343,8 @@
     "streamUrl": "https://streaming.shoutcast.com/laperrona",
     "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/964/la-perrona.fa0fb94c.png",
     "genre": "Regional",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "La GS 104.7 FM Guasave",
@@ -10598,7 +10602,8 @@
     "streamUrl": "https://streaming.shoutcast.com/xhld-radio-costa",
     "logoUrl": "https://thumbnail.anii.io/mx/radio-costa-103-9-fm-autlan-de-navarro-mexico.webp",
     "genre": "News",
-    "bitrate": 64
+    "bitrate": 64,
+    "offline": true
   },
   {
     "name": "Radio Patos",
