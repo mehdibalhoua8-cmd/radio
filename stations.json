@@ -494,7 +494,7 @@
     "streamUrl": "https://live.convoynetwork.com/stream",
     "logoUrl": "https://convoynetwork.com/assets/favicon.7a65c983.ico",
     "genre": "Music",
-    "bitrate": 56
+    "bitrate": 64
   },
   {
     "name": "Cumbias Inmortales Radio (Monterrey)",
@@ -675,8 +675,7 @@
     "streamUrl": "https://mdstrm.com/audio/672cf4ef13922c2a9d322224/icecast.audio?property=radionet",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/lacalientechihuahua.png?version=8f71764d60ef0897f5b5356f241d35cb169d4665",
     "genre": "General",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "Sonoriz Radio",
@@ -920,8 +919,7 @@
     "streamUrl": "https://mdstrm.com/audio/67378091f22f160aaf4c34b1/icecast.audio",
     "logoUrl": "https://i.iheart.com/v3/re/assets.streams/69544948d9518feb70dab33f",
     "genre": "Music",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "La Consentida San Luis 107.9",
@@ -977,7 +975,8 @@
     "streamUrl": "https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio/579bd29dc99290cf08362c3b/672a59ef590a749f9caa0704/icecast.audio",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/kebuenamonterrey.png?version=e028d1ecddeb7c7783cd3ed9a873f4726ad2436a",
     "genre": "Regional",
-    "bitrate": 93
+    "bitrate": 93,
+    "offline": true
   },
   {
     "name": "Prisma Radio",
@@ -1019,8 +1018,7 @@
     "streamUrl": "https://mdstrm.com/audio/6737875eb61ca2fa731a2891/icecast.audio",
     "logoUrl": "https://cdn-profiles.tunein.com/s323162/images/logod.png",
     "genre": "Regional",
-    "bitrate": 187,
-    "offline": true
+    "bitrate": 187
   },
   {
     "name": "Bbc Radio 1 Anthems Uk",
@@ -1177,7 +1175,7 @@
     "streamUrl": "http://stream-142.zeno.fm/9y6n2h9v2ehvv?zs=haS8YwG0TXWB3MU9AdJVjA",
     "logoUrl": "https://www.radio-en-vivo.mx/favicon.ico",
     "genre": "Regional",
-    "bitrate": 192
+    "bitrate": 224
   },
   {
     "name": "Radio 620",
@@ -1246,8 +1244,7 @@
     "streamUrl": "https://mdstrm.com/audio/672ceb62f46bb8ed9e6d02ad/icecast.audio?property=radionet",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/lakebuenatorreon.png?version=86fe35b9d3925871bbb050795986cf4887f80a11",
     "genre": "Regional",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "Top Radio",
@@ -1261,16 +1258,14 @@
     "streamUrl": "https://mdstrm.com/audio/673781389cbec50af5c6cef9/icecast.audio?property=radionet",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/hitstorreon.png?version=6f3bb7ccac7623fee917a128a152c558b5918b82",
     "genre": "Music",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "La Lupe 94.9 FM (Tampico)",
     "streamUrl": "https://mdstrm.com/audio/672ce9fe8cff752b2de0342d/icecast.audio?property=radionet",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/lalupetampico.png?version=8dd59410fb8be4882148c7a58c664aa3b4e2183f",
     "genre": "General",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "Radio Bi 88.7 (Aguascalientes)",
@@ -1290,15 +1285,14 @@
     "streamUrl": "https://stream5.mexiserver.com:1124/stream",
     "logoUrl": "https://cdn-profiles.tunein.com/s135047/images/logod.jpg",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 96
   },
   {
     "name": "La T Grande 990 (Mty)",
     "streamUrl": "https://mdstrm.com/audio/672a602bce5982a130a01a1d/icecast.audio",
     "logoUrl": "https://i.iheart.com/v3/re/new_assets/62a8c99cfe9a2dcd3a8fb928",
     "genre": "Regional",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "Buenísiima",
@@ -1491,80 +1485,70 @@
     "streamUrl": "https://mdstrm.com/audio/6737843db95cc90e1003387b/icecast.audio?property=radionet",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/hitstampico.png?version=ca7e75ebf9cb6c0167f0536cdfa33531cbb2d81d",
     "genre": "Music",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "La Lupe 105.3 FM (Saltillo)",
     "streamUrl": "https://mdstrm.com/audio/672cf986a5bbd52ae704ac55/icecast.audio?property=radionet",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/lalupesaltillo.png?version=aa3fadc83c2ab43f2eb24c3f0dd0f9aaf98e99b0",
     "genre": "General",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "La Lupe 101.7 FM (Parral)",
     "streamUrl": "https://mdstrm.com/audio/67378dda08ad80fb27a9bebc/icecast.audio?property=radionet",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/lalupeparral.png?version=e5ffa34df32d8d85a0ccf9baba33015980077ccc",
     "genre": "General",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "La Lupe 96.7 FM (León)",
     "streamUrl": "https://mdstrm.com/audio/67379fd2438a16f805e794bd/icecast.audio?property=radionet",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/lalupeleon.png?version=b145782a8cc8188174b2de20ec55be1f8a39acee",
     "genre": "General",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "La Lupe 96.7 FM (Nuevo Laredo)",
     "streamUrl": "https://mdstrm.com/audio/672cf3a49d0c622b4dd4236a/icecast.audio?property=radionet",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/llalupenuevolaredo.png?version=8a5984d0453fbc0623cc11886cd3dd224b20c7c1",
     "genre": "General",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "La Lupe 105.7 FM (Veracruz)",
     "streamUrl": "https://mdstrm.com/audio/67378a1158fddafa2d92caf9/icecast.audio?property=radionet",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/lalupeveracuz.png?version=cdcd28449759656ab19e032591dfb8666f30ff29",
     "genre": "Regional",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "La Lupe 102.9 FM (Durango)",
     "streamUrl": "https://mdstrm.com/audio/673bb80deced65f9ebf4372d/icecast.audio?property=radionet",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/lalupedurango.png?version=47741c41d214fd5479e83808670b7cf884938a0b",
     "genre": "General",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "La Lupe 103.3 FM (Cuauhtémoc)",
     "streamUrl": "https://mdstrm.com/audio/672d0022de02b3bffb8856cc/icecast.audio?property=radionet",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/lalupe1033.png?version=db9a618b00bbd2064efc05e1447e739f67c1717c",
     "genre": "General",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "La Lupe 640 AM",
     "streamUrl": "https://mdstrm.com/audio/672cf481b5a06cedbe0047de/icecast.audio?property=radionet",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/lalupejuarez.png?version=b4471ac5ed4cd597c09e4f3268665b9ec030f6e1",
     "genre": "General",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "La Lupe 104.5 FM (Chihuahua)",
     "streamUrl": "https://mdstrm.com/audio/672cf3af89165bc0c835886f/icecast.audio?property=radionet",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/lalupechihuahua.png?version=0ad4a3d1743103e4d08a165c14e9d10f362b3e9a",
     "genre": "General",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "La Ke Buena 104.9 FM (Linares)",
@@ -1578,8 +1562,7 @@
     "streamUrl": "https://mdstrm.com/audio/672cfbc1fdabb2c0423a7067/icecast.audio?property=radionet",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/lalupeoaxaca.png?version=e5990efe8e9575773d3f9f020cd22fda983afbda",
     "genre": "General",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "W Radio San Luis Potosí",
@@ -1629,8 +1612,7 @@
     "streamUrl": "https://mdstrm.com/audio/672ce72c8997d8ee6a17c240/icecast.audio",
     "logoUrl": "https://i.iheart.com/v3/re/new_assets/62aa13f78cf35d83aff9906a",
     "genre": "Regional",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "Trión 106.1 (Veracruz)",
@@ -1705,8 +1687,7 @@
     "streamUrl": "https://mdstrm.com/audio/672a5df773078862801f389f/icecast.audio",
     "logoUrl": "https://cdn-profiles.tunein.com/s90693/images/logog.png",
     "genre": "Music",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "EL ROCKÓDROMO de Radio Felicidad",
@@ -2266,8 +2247,7 @@
     "streamUrl": "https://mdstrm.com/audio/673784f2f22f160aaf4c8e8c/icecast.audio",
     "logoUrl": "https://i.iheart.com/v3/re/new_assets/62a920140b19e44c3d63608d",
     "genre": "Music",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "La Tropical Caliente 102.1",
@@ -2316,8 +2296,7 @@
     "streamUrl": "https://mdstrm.com/audio/672cf292e81d90ed336e1e86/icecast.audio",
     "logoUrl": "https://i.iheart.com/v3/re/new_assets/62aa2337b134e125b906cf6c",
     "genre": "Regional",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "Candela Radio",
@@ -2724,8 +2703,7 @@
     "streamUrl": "https://mdstrm.com/audio/672a6584ae352d9e9725f5f6/icecast.audio",
     "logoUrl": "https://thumbnail.anii.io/mx/milenio-radio-103-7-fm-monterrey-mexico.webp",
     "genre": "News",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "+Exclusively Bruno Mars",
@@ -3037,8 +3015,7 @@
     "streamUrl": "https://mdstrm.com/audio/672cf749673e8a2bb4c6d5d2/icecast.audio",
     "logoUrl": "https://i.iheart.com/v3/re/new_assets/62aa5a4ac3d9660566bd74d6",
     "genre": "Regional",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "La Lupe 105.3 (Mty)",
@@ -3108,8 +3085,7 @@
     "streamUrl": "http://veracruz.radio.wnsol.com:8310/;stream.mp3",
     "logoUrl": "https://i.postimg.cc/fRZCHPLh/Imagen-Radio-Veracruz.png",
     "genre": "Sports",
-    "bitrate": 96,
-    "offline": true
+    "bitrate": 96
   },
   {
     "name": "Radio 13 1340 AM (Más Vallenata )",
@@ -3640,7 +3616,7 @@
     "streamUrl": "https://stream.zeno.fm/d3s3lyxx58nuv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/abcradiomix.png?version=6ffd3f474cc0c84666b04f45d3e21edfbbdd2bea",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 112
   },
   {
     "name": "La Bonachona Radio",
@@ -3963,8 +3939,7 @@
     "streamUrl": "https://mdstrm.com/audio/672cff32326325ee49585c36/icecast.audio",
     "logoUrl": "https://i.iheart.com/v3/re/new_assets/62aa65eec3d9660566bd74d8",
     "genre": "Regional",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "Radio México Internacional",
@@ -4424,8 +4399,7 @@
     "streamUrl": "https://mdstrm.com/audio/67379e3e9cbec50af5c979ac/icecast.audio",
     "logoUrl": "",
     "genre": "Regional",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "Mundo (Cuernavaca)",
@@ -4548,7 +4522,7 @@
     "streamUrl": "https://stream-51.zeno.fm/tn3ch5scy38uv?zs=0CgQIimsTR-hHP_HMaSszA",
     "logoUrl": "https://i.postimg.cc/tT5L6c1s/pixeldigitalradio.png",
     "genre": "Music",
-    "bitrate": 80
+    "bitrate": 48
   },
   {
     "name": "Sol FM 101.3 (Atlixco)",
@@ -4707,8 +4681,7 @@
     "streamUrl": "https://mdstrm.com/audio/672a61c2bef01359b6913aea/icecast.audio",
     "logoUrl": "https://thumbnail.anii.io/mx/radio-la-tkr-1480-am-mexico.webp",
     "genre": "Regional",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "Éxitos 98.9 FM",
@@ -5508,40 +5481,35 @@
     "streamUrl": "https://mdstrm.com/audio/6737a716a7a64ff86b13d1d0/icecast.audio?property=radionet",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/lacalientenuevolaredo.png?version=b5dcf08796457369fbe8e6ed1e9767f634b5f601",
     "genre": "General",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "La Caliente 105.7 FM (Tepic)",
     "streamUrl": "https://mdstrm.com/audio/672cfe748cff752b2de2903a/icecast.audio?property=radionet",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/lacalientetepic.png?version=31a39bf354028d844511cf98f8684288c0b2403b",
     "genre": "General",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "La Caliente San Luis 97.7 FM",
     "streamUrl": "https://mdstrm.com/audio/6737a51ea7a64ff86b13a68d/icecast.audio?property=radionet",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/lacalientesanluis.png?version=8fb901a38a6c4112a6bfa8a0690c68602250b1a0",
     "genre": "General",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "La Caliente 94.5 FM (Tampico)",
     "streamUrl": "https://mdstrm.com/audio/6737856bf78e9e0deb1ffafe/icecast.audio?property=radionet",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/lacalientetampico.png?version=d9e1bdd90654cdb5154424c94c918f6d93009985",
     "genre": "General",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "La Caliente 93.1 FM (Reynosa)",
     "streamUrl": "https://mdstrm.com/audio/6737c313039643f84b8ef5b1/icecast.audio?property=radionet",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/lacalientereynosa.png?version=1a128b0e87ea5969298309ecbee5b1297c9c90b7",
     "genre": "General",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "La Caliente 105.7 FM (Linares)",
@@ -6243,8 +6211,7 @@
     "streamUrl": "https://live.zuperdns.net/9990/stream",
     "logoUrl": "https://cdn-profiles.tunein.com/s90253/images/logod.png",
     "genre": "Music",
-    "bitrate": 64,
-    "offline": true
+    "bitrate": 64
   },
   {
     "name": "El Heraldo Radio 99.7 (Mty)",
@@ -6271,7 +6238,7 @@
     "streamUrl": "http://stream.zeno.fm/ppk72mcbqs8uv",
     "logoUrl": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
     "genre": "Music",
-    "bitrate": 112
+    "bitrate": 96
   },
   {
     "name": "Arroba FM (León)",
@@ -6333,8 +6300,7 @@
     "streamUrl": "https://mdstrm.com/audio/672cfce4fdabb2c0423a9937/icecast.audio",
     "logoUrl": "https://i.iheart.com/v3/re/new_assets/62aa6dddc3d9660566bd74dc",
     "genre": "Regional",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "La Patrona 94.5 (Santiago)",
@@ -7363,8 +7329,7 @@
     "streamUrl": "https://mdstrm.com/audio/672cf2d514e0b3ed57c840c5/icecast.audio",
     "logoUrl": "https://i.iheart.com/v3/re/new_assets/62a939bf8df38373f2253e2b",
     "genre": "Music",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "Universal Health Radio (Español)",
@@ -7635,7 +7600,7 @@
     "streamUrl": "https://stream.zeno.fm/bds3sefnuuquv",
     "logoUrl": "",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 56
   },
   {
     "name": "JM Radio Mas Tropical",
@@ -7818,7 +7783,7 @@
     "streamUrl": "https://stream.zeno.fm/475h26fvz2quv",
     "logoUrl": "",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 88
   },
   {
     "name": "Éxtasis Digital 102.7 FM",
@@ -7846,7 +7811,7 @@
     "streamUrl": "https://stream.zeno.fm/0ssyb808fxquv.aac",
     "logoUrl": "",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 64
   },
   {
     "name": "Romance 99.5 FM",
@@ -8448,7 +8413,7 @@
     "streamUrl": "http://sigmaradio.stream:9000/index",
     "logoUrl": "https://sigmaradiodelicias.com/wp-content/uploads/2018/08/cropped-favicon-sigmaradio-180x180.png",
     "genre": "Music",
-    "bitrate": 96
+    "bitrate": 75
   },
   {
     "name": "102.9 Buenavista Radio (Ciudad Valles)",
@@ -8547,8 +8512,7 @@
     "streamUrl": "https://radio.perustream.com/8032/stream",
     "logoUrl": "",
     "genre": "General",
-    "bitrate": 128,
-    "offline": true
+    "bitrate": 128
   },
   {
     "name": "Super FM 99.5",
@@ -8646,8 +8610,7 @@
     "streamUrl": "https://mdstrm.com/audio/6737a424ecba1df74a06e49e/icecast.audio",
     "logoUrl": "https://cdn-profiles.tunein.com/s323168/images/logod.png",
     "genre": "Regional",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "La Kebuena 95.5 (Potrero del Llano)",
@@ -8739,7 +8702,7 @@
     "streamUrl": "https://ssl.sigmaradio.stream:9004/stream",
     "logoUrl": "https://cdn-profiles.tunein.com/s148725/images/logod.png",
     "genre": "Music",
-    "bitrate": 96
+    "bitrate": 80
   },
   {
     "name": "GDL 89.1 La Bestia Grupera XHGDA",
@@ -8809,8 +8772,7 @@
     "streamUrl": "https://mdstrm.com/audio/6737a5d1405919f792cf355e/icecast.audio?property=mmradio",
     "logoUrl": "https://imagenes.mmradio.com/uploads/2024/02/13/65cba7b3c23df.svg",
     "genre": "Music",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "88.9 La Revolucionaria (Izúcar)",
@@ -9580,8 +9542,7 @@
     "streamUrl": "https://mdstrm.com/audio/6737954c58fddafa2d93f0fb/icecast.audio?property=mmradio",
     "logoUrl": "",
     "genre": "Regional",
-    "bitrate": 125,
-    "offline": true
+    "bitrate": 125
   },
   {
     "name": "Frecuencia Millennial",
@@ -9771,8 +9732,7 @@
     "streamUrl": "https://mdstrm.com/audio/672a54e1064f16625e497b86/icecast.audio",
     "logoUrl": "https://i.iheart.com/v3/re/new_assets/62aa5469c3d9660566bd74d2",
     "genre": "News",
-    "bitrate": 93,
-    "offline": true
+    "bitrate": 93
   },
   {
     "name": "Arielfmeza",
