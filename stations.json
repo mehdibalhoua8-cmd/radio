@@ -1011,7 +1011,7 @@
     "streamUrl": "https://stream.zeno.fm/e88fhqnsrk9uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/huntersmusik.png?version=3d8b27de07c488a04a4fd8f8482f6013dd7801e7",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 112
   },
   {
     "name": "La Lupe 99.9 (Gdl)",
@@ -1175,7 +1175,7 @@
     "streamUrl": "http://stream-142.zeno.fm/9y6n2h9v2ehvv?zs=haS8YwG0TXWB3MU9AdJVjA",
     "logoUrl": "https://www.radio-en-vivo.mx/favicon.ico",
     "genre": "Regional",
-    "bitrate": 224
+    "bitrate": 192
   },
   {
     "name": "Radio 620",
@@ -1451,7 +1451,8 @@
     "streamUrl": "https://stream.zeno.fm/b55avvu0x1zuv",
     "logoUrl": "https://i.postimg.cc/mDmmr0DS/radiouniversidad881.png",
     "genre": "Music",
-    "bitrate": 24
+    "bitrate": 24,
+    "offline": true
   },
   {
     "name": "Radio Disney 92.1 (CDMX)",
@@ -1577,7 +1578,7 @@
     "streamUrl": "https://stream-288.surfernetwork.com/p45k5uz5dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwNDVrNXV6NWRraHZ2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InVGREVhY3JJVFJ1UmpyQ2dyZEVuSEEiLCJpYXQiOjE3OTM0OTkxNjgsImV4cCI6MTc5MzQ5OTIyOH0.vk09ZH11zPi6f7BW93rLal0qg4V7TZ7m2HwN8MXhX2A",
     "logoUrl": "https://static-media.streema.com/media/cache/de/53/de5362728a4c73f5b6fbaf2c807971e5.png",
     "genre": "Regional",
-    "bitrate": 64
+    "bitrate": 128
   },
   {
     "name": "D99 98.9 (MTY)",
@@ -1782,7 +1783,7 @@
     "streamUrl": "https://a13.asurahosting.com/listen/stereo_beam/radio.mp3",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/stereobeam.png?version=463fa9471ea5d1264b2b6886195a5782cd097d19",
     "genre": "General",
-    "bitrate": 128
+    "bitrate": 208
   },
   {
     "name": "Radio SUPERACIÓN ECMC",
@@ -2527,7 +2528,8 @@
     "streamUrl": "https://radio.e-ver.com.mx:8001/live",
     "logoUrl": "https://i.postimg.cc/qM3fT6P7/radiobemba.png",
     "genre": "News",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "LOS40 98.9 (Veracruz)",
@@ -3616,7 +3618,7 @@
     "streamUrl": "https://stream.zeno.fm/d3s3lyxx58nuv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/abcradiomix.png?version=6ffd3f474cc0c84666b04f45d3e21edfbbdd2bea",
     "genre": "Music",
-    "bitrate": 112
+    "bitrate": 160
   },
   {
     "name": "La Bonachona Radio",
@@ -3855,7 +3857,7 @@
     "streamUrl": "https://stream.zeno.fm/5ze4urxay98uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/lamasprendida.jpeg?version=e1675afc7002512e3ede264658b5ab64f94cfeca",
     "genre": "General",
-    "bitrate": 112
+    "bitrate": 128
   },
   {
     "name": "Radiante FM 91.1",
@@ -4218,7 +4220,7 @@
     "streamUrl": "https://sg.centrocibernetico.com/audiorama-xhto",
     "logoUrl": "https://cdn-profiles.tunein.com/s342438/images/logod.png",
     "genre": "Music",
-    "bitrate": 24
+    "bitrate": 23
   },
   {
     "name": "La Gigante 95.3 (Piedras Negras)",
@@ -4564,7 +4566,7 @@
     "streamUrl": "https://stream.zeno.fm/0snf1r835k0uv",
     "logoUrl": "https://station-images-prod.radio-assets.com/300/freeaktivo.png?version=c15c4227378060ead10d6999928f75cc7dd952a6",
     "genre": "General",
-    "bitrate": 96
+    "bitrate": 128
   },
   {
     "name": "Classic Rock Fire",
@@ -5864,7 +5866,8 @@
     "streamUrl": "http://playradio.mx/proxy/wzacatecas?mp=/stream",
     "logoUrl": "https://i.postimg.cc/MpN4xPkK/wradio770.png",
     "genre": "Religious",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "LA FU 103.3 (Cosamaloapan)",
@@ -6238,7 +6241,7 @@
     "streamUrl": "http://stream.zeno.fm/ppk72mcbqs8uv",
     "logoUrl": "https://i.ytimg.com/vi/s4rgiw1yd84/hqdefault.jpg",
     "genre": "Music",
-    "bitrate": 96
+    "bitrate": 128
   },
   {
     "name": "Arroba FM (León)",
@@ -7398,7 +7401,8 @@
     "streamUrl": "https://sp3.servidorrprivado.com:10938/;",
     "logoUrl": "",
     "genre": "News",
-    "bitrate": 80
+    "bitrate": 80,
+    "offline": true
   },
   {
     "name": "Manzana Radio 100.7 FM",
@@ -7468,7 +7472,7 @@
     "streamUrl": "https://stream.zeno.fm/bmv92smzzbruv",
     "logoUrl": "",
     "genre": "General",
-    "bitrate": 56
+    "bitrate": 128
   },
   {
     "name": "La Bestia Grupera (Tecomán)",
@@ -7572,7 +7576,7 @@
     "streamUrl": "https://servidor16-2.brlogic.com:7062/live",
     "logoUrl": "https://platform-upload.cdn-brlogic.com/253324/editor/d865aadedcacf11cba4ec34bcf31867f.png",
     "genre": "Music",
-    "bitrate": 128
+    "bitrate": 96
   },
   {
     "name": "LOS40 Oaxaca",
@@ -9718,7 +9722,7 @@
     "streamUrl": "https://cast1.asurahosting.com/proxy/coahuilasaltillo/stream",
     "logoUrl": "https://i.postimg.cc/1z35HV18/coahuilahoyradio1025.png",
     "genre": "News",
-    "bitrate": 64
+    "bitrate": 128
   },
   {
     "name": "Radio Madera",
@@ -10334,7 +10338,8 @@
     "streamUrl": "https://streaming.shoutcast.com/laperrona",
     "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/964/la-perrona.fa0fb94c.png",
     "genre": "Regional",
-    "bitrate": 128
+    "bitrate": 128,
+    "offline": true
   },
   {
     "name": "La GS 104.7 FM Guasave",
@@ -10592,7 +10597,8 @@
     "streamUrl": "https://streaming.shoutcast.com/xhld-radio-costa",
     "logoUrl": "https://thumbnail.anii.io/mx/radio-costa-103-9-fm-autlan-de-navarro-mexico.webp",
     "genre": "News",
-    "bitrate": 64
+    "bitrate": 64,
+    "offline": true
   },
   {
     "name": "Radio Patos",
